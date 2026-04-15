@@ -1,0 +1,886 @@
+﻿id,original_comment,stemmed_comment,toxicity_score,severity_level,category,is_cyberbullying,sample_weight
+1,😢 😮 😅 😊 🎉,,0,safe,non-cyberbullying,0,0.5290237467018469
+2,RRQ 😅😅,rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+3,"Roam Gatot emang otot kawat tulang besi, keras banget 😂",roam gatot memang otot kawat tulang besi keras banget,0,safe,non-cyberbullying,0,0.5290237467018469
+4,gantilah rezzzz cuma beban aja,ganti rezzzz cuma beban,0,safe,non-cyberbullying,0,0.5290237467018469
+5,Kyy gajelas,kyy gajelas,0,safe,non-cyberbullying,0,0.5290237467018469
+6,cobain deh Angkakembar2 benar benar gampang menang besar,cobain deh angkakembar benar benar gampang memang benar,0,safe,non-cyberbullying,0,0.5290237467018469
+7,Idok itu r7 bukan?,idok r bukan,0,safe,non-cyberbullying,0,0.5290237467018469
+8,jangan gampang ke gank,jangan gampang gank,0,safe,non-cyberbullying,0,0.5290237467018469
+9,Tank oon,tank oon,0,safe,non-cyberbullying,0,0.5290237467018469
+10,Ini rrq vs rrq 😂,rrq vs rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+11,Kyy jadi kaya bot mainnya,kyy jadi kaya bot main,3,moderate_toxic,non-cyberbullying,0,0.5290237467018469
+12,rrq,rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+13,Out rinz,out rinz,0,safe,non-cyberbullying,0,0.5290237467018469
+14,Rinz ga ada kata bijak lagi kah 🤣🤣,rinz ada kata bijak kah,0,safe,non-cyberbullying,0,0.5290237467018469
+15,Ya mudah-mudahan la di akhir season 16 nanti ..rrq tu GK jdi time lawak lgi...soal ny 2 x finnal ya kan..😂😂😂😂,mudahmudahan la akhir season rrq tu jadi time lawak lgisoal ny x finnal akan,0,safe,non-cyberbullying,0,0.5290237467018469
+16,Di rrq tu yg goblok tu pak apek...rrq tu sebener nya dri season14 GK perlu yg nama nya ..rombak time ..yg perlu itu..rombak mental tim dan belajar dari kekalahan ...,rrq tu goblok tu pak apekrrq tu sebener season perlu nama rombak time perlu iturombak mental tim ajar dari kalah,4,moderate_toxic,cyberbullying,1,9.113636363636363
+17,Vyn? Dia jadi coach sekarang?,vyn jadi coach sekarang,0,safe,non-cyberbullying,0,0.5290237467018469
+18,Evos bot,evos bot,3,moderate_toxic,non-cyberbullying,0,0.5290237467018469
+19,Parah ini,parah,1,minor_negative,non-cyberbullying,0,0.5290237467018469
+20,Coach EVOS  musuh dalam selimut kocak bner,coach evos musuh selimut kocak bner,0,safe,non-cyberbullying,0,0.5290237467018469
+21,Sendal kenapa masih dipertahankan ya epos epos,sendal kasih tahan epos epos,0,safe,non-cyberbullying,0,0.5290237467018469
+22,Lucunya evos udh tau rrq snowbol malah war terus 😄,lucu evos tahu rrq snowbol malah war terus,0,safe,non-cyberbullying,0,0.5290237467018469
+23,Kasian albertt berusaha sendiri,kasi albertt usaha sendiri,0,safe,non-cyberbullying,0,0.5290237467018469
+24,Gabakal juara rrq 100%,gabakal juara rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+25,Setsujin is back🎉❤,setsujin is back,0,safe,non-cyberbullying,0,0.5290237467018469
+26,"17:18 masa menit10 beda 14k gold, udah kaya main di GM😅",masa menit beda k gold kaya main gm,0,safe,non-cyberbullying,0,0.5290237467018469
+27,"🌟𝐃𝐎𝐑𝐀𝟕𝟕🌟 gokil bgt, pecah trs ga sia2 anjay",gokil banget pecah terus sia anjay,1,minor_negative,non-cyberbullying,0,0.5290237467018469
+28,"🌟𝐃𝐎𝐑𝐀𝟕𝟕🌟 Lunas utang, auto kaya cok",lunas utang auto kaya cok,0,safe,non-cyberbullying,0,0.5290237467018469
+29,"🌟𝐃𝐎𝐑𝐀𝟕𝟕🌟 Cuma depo 100k, jd sultan",cuma depo k jadi sultan,0,safe,non-cyberbullying,0,0.5290237467018469
+30,🌟𝐃𝐎𝐑𝐀𝟕𝟕🌟 Depo 50 jadi 5jt anjay,depo jadi jt anjay,1,minor_negative,non-cyberbullying,0,0.5290237467018469
+31,🌟𝐃𝐎𝐑𝐀𝟕𝟕🌟 Depo dikit lunas utang cok,depo dikit lunas utang cok,0,safe,non-cyberbullying,0,0.5290237467018469
+32,"🌟𝐃𝐎𝐑𝐀𝟕𝟕🌟 Baru depo 50 ribu, langsung mekswin 5 juta. Gokil ga sih?",baru depo ribu langsung mekswin juta gokil sih,0,safe,non-cyberbullying,0,0.5290237467018469
+33,🌟𝐃𝐎𝐑𝐀𝟕𝟕🌟 member bru pasti jepe,member bru jepe,0,safe,non-cyberbullying,0,0.5290237467018469
+34,🌟𝐃𝐎𝐑𝐀𝟕𝟕🌟 Modal kecil mekswin trs,modal kecil mekswin terus,0,safe,non-cyberbullying,0,0.5290237467018469
+35,"🌟𝐃𝐎𝐑𝐀𝟕𝟕🌟 Baru maen udah mekswin, gila!",baru maen mekswin gila,0,safe,non-cyberbullying,0,0.5290237467018469
+36,🌟𝐃𝐎𝐑𝐀𝟕𝟕🌟 mekswin trs jd lupa utang,mekswin terus jadi lupa utang,0,safe,non-cyberbullying,0,0.5290237467018469
+37,"🌟𝐃𝐎𝐑𝐀𝟕𝟕🌟 gokil bgt, pecah trs ga sia2 anjay",gokil banget pecah terus sia anjay,1,minor_negative,non-cyberbullying,0,0.5290237467018469
+38,"🌟𝐃𝐎𝐑𝐀𝟕𝟕🌟 Depo 50 jadi 5 juta, mantap!",depo jadi juta mantap,0,safe,non-cyberbullying,0,0.5290237467018469
+39,"🌟𝐃𝐎𝐑𝐀𝟕𝟕🌟 Lunas utang, auto kaya cok",lunas utang auto kaya cok,0,safe,non-cyberbullying,0,0.5290237467018469
+40,🌟𝐃𝐎𝐑𝐀𝟕𝟕🌟 Depo dikit lunas utang cok,depo dikit lunas utang cok,0,safe,non-cyberbullying,0,0.5290237467018469
+41,🌟𝐃𝐎𝐑𝐀𝟕𝟕🌟 Depo 50 jadi 5jt anjay,depo jadi jt anjay,1,minor_negative,non-cyberbullying,0,0.5290237467018469
+42,🌟𝐃𝐎𝐑𝐀𝟕𝟕🌟 Modal kecil mekswin trs,modal kecil mekswin terus,0,safe,non-cyberbullying,0,0.5290237467018469
+43,"🌟𝐃𝐎𝐑𝐀𝟕𝟕🌟 Baru maen udah mekswin, gila!",baru maen mekswin gila,0,safe,non-cyberbullying,0,0.5290237467018469
+44,🌟𝐃𝐎𝐑𝐀𝟕𝟕🌟 mekswin trs jd lupa utang,mekswin terus jadi lupa utang,0,safe,non-cyberbullying,0,0.5290237467018469
+45,"🌟𝐃𝐎𝐑𝐀𝟕𝟕🌟 Baru depo 50 ribu, langsung mekswin 5 juta. Gokil ga sih?",baru depo ribu langsung mekswin juta gokil sih,0,safe,non-cyberbullying,0,0.5290237467018469
+46,🌟𝐃𝐎𝐑𝐀𝟕𝟕🌟 member bru pasti jepe,member bru jepe,0,safe,non-cyberbullying,0,0.5290237467018469
+47,Jangan di ubah lagi sutsujin kemistrinya rrq udah bagus,jangan ubah sutsujin mistri rrq bagus,0,safe,non-cyberbullying,0,0.5290237467018469
+48,Rinz ga bisa main lele,rinz bisa main lele,0,safe,non-cyberbullying,0,0.5290237467018469
+49,Toy cuma bisa granger,toy cuma granger,0,safe,non-cyberbullying,0,0.5290237467018469
+50,"Kata onic,badut vs badutttt",kata onicbadut vs badutttt,0,safe,non-cyberbullying,0,0.5290237467018469
+51,"Kok mainin sutsujin,kenapa gak zunesh aja wkwkwkwkwkwkwk",kok mainin sutsujinkenapa zunesh wkwkwkwkwkwkwk,0,safe,non-cyberbullying,0,0.5290237467018469
+52,Itu erlan ngapain yaaa,erlan ngapain yaaa,0,safe,non-cyberbullying,0,0.5290237467018469
+53,"Menit 7 padahal evos war di mid goldlane nya clear lane , itu gada info apa dari mid suruh mundur",menit padahal evos war mid goldlane clear lane gada info apa mid suruh mundur,0,safe,non-cyberbullying,0,0.5290237467018469
+54,Ya elah cuman stag di el clasico aja 😂😅 lawan si O kagak mampu boss🤭🤭😁✌✌,elah cuma stag el clasico lawan si o kagak mampu boss,0,safe,non-cyberbullying,0,0.5290237467018469
+55,"dari dulu itu ujin punya potensi besar, makanya jgn dibuat ga main",dulu ujin punya potensi benar makanya jangan buat main,0,safe,non-cyberbullying,0,0.5290237467018469
+56,"9:21 momen gila rezzz
+Gak nyangka banget gua udah ada pengganti lek dyren secepet ini",momen gila rezzz nyangka banget sudah ganti lek dyren secepet,0,safe,non-cyberbullying,0,0.5290237467018469
+57,Ya mungkin,mungkin,0,safe,non-cyberbullying,0,0.5290237467018469
+58,Itu serius vyn coachnya,serius vyn coachnya,0,safe,non-cyberbullying,0,0.5290237467018469
+59,Ngapai lah evos beli KYY.. 😂😂.. kerjaannya juga cuma ngetnot 🤣🤣,ngapai lah evos beli kyy kerja cuma ngetnot,0,safe,non-cyberbullying,0,0.5290237467018469
+60,Punya jungler keren dan perfomanya bagus di diemin 😅😅 coba dari awal di mainin pasti ga jauh jatuhnya,punya jungler keren perfomanya bagus diemin coba awal mainin tidak jauh jatuh,0,safe,non-cyberbullying,0,0.5290237467018469
+61,"Aku nonton ini sambil senyum-senyum sendiri,🀄ℙℝ𝕆𝔹𝔼𝕋855🀄Vibes-nya positif,cara ngomongmu ramah banget, dan yang jelas... nggak ngebosenin! Ini tipe konten yang bisa ditonton berulang-ulang tanpa bikin jenuh. Terima kasih udah nyebarin energi baik. Semoga kamu selalu dilimpahi ide-ide hebat kayak gini terus ya!💯",aku nonton sambil senyumsenyum sendirivibesnya positifcara ngomongmu ramah banget jelas ngebosenin tipe konten yang bisa tonton berulangulang bikin jenuh terima kasih nyebarin energi baik moga kamu selalu limpah ideide hebat gin terus,0,safe,non-cyberbullying,0,0.5290237467018469
+62,"dulu fans epos hampir 70%
+dan sekarang tinggal 30% sisanya pindah ke onic,",dulu fans epos hampir sekarang tinggal sisa pindah onic,0,safe,non-cyberbullying,0,0.5290237467018469
+63,"dulu fans epos hampir 70%
+dan sekarang tinggal 30% sisanya pindah ke onic,",dulu fans epos hampir sekarang tinggal sisa pindah onic,0,safe,non-cyberbullying,0,0.5290237467018469
+64,Albert vs rrq ini mah 😂,albert vs rrq mah,0,safe,non-cyberbullying,0,0.5290237467018469
+65,keliatan siapa player yg bermasalah,liat siapa player masalah,0,safe,non-cyberbullying,0,0.5290237467018469
+66,Momen Emote😂😂 9:08,momen emote,0,safe,non-cyberbullying,0,0.5290237467018469
+67,APA ITU ZUNESH GOBLOK. BAGUSAN HAZLE. UJIN LEBIH BAGUS DARI KEDUANYA,apa zunesh goblok bagus hazle ujin lebih bagus dua,4,moderate_toxic,cyberbullying,1,9.113636363636363
+68,sandal out aja,sandal out,0,safe,non-cyberbullying,0,0.5290237467018469
+69,please roster ini kedepannya jangan pake Juned lagiii,please roster depan jangan pakai juned,0,safe,non-cyberbullying,0,0.5290237467018469
+70,13:43,,0,safe,non-cyberbullying,0,0.5290237467018469
+71,"Coba RRQ pas lawan ONIC pake sutsujin, pasti menang....",coba rrq pas lawan onic pakai sutsujin memang,0,safe,non-cyberbullying,0,0.5290237467018469
+72,"Pak ap: RRQ boleh kalah sama tim manapun, asal jangan sama EVOS",pak ap rrq kalau sama tim mana asal jangan sama evos,0,safe,non-cyberbullying,0,0.5290237467018469
+73,16:36 momen YSS ulti kena 3 orang,momen yss ulti orang,0,safe,non-cyberbullying,0,0.5290237467018469
+74,"Ujin tipikal player pendiam dan pemalu.
+Digameplay dia gmw diliat org dia yg paling nonjol.",ujin tipikal player diam malu digameplay gmw liat orang yang paling nonjol,0,safe,non-cyberbullying,0,0.5290237467018469
+75,king erlan epic,king erlan epic,0,safe,non-cyberbullying,0,0.5290237467018469
+76,fams are you ready:sunyii aowowkw,fams are you readysunyii aowowkw,0,safe,non-cyberbullying,0,0.5290237467018469
+77,Haha udah kaya lawan partyan public😂,haha kaya lawan partyan public,0,safe,non-cyberbullying,0,0.5290237467018469
+78,Akhir ny ujin main ini ni yg buat kemaren kalah coba kalo ujin dari kemaren main pasti ga bakal kalah,akhir ny ujin main ni buat kemaren kalau coba kalau ujin kemaren main tidak bakal kalau,0,safe,non-cyberbullying,0,0.5290237467018469
+79,Uhuyyy,uhuyyy,0,safe,non-cyberbullying,0,0.5290237467018469
+80,Mnt 9 yss lvl15 😂,mnt yss lvl,0,safe,non-cyberbullying,0,0.5290237467018469
+81,EVOS jangan harap kalo mm nya masih erlan,evos jangan harap kalau mm kasih erlan,0,safe,non-cyberbullying,0,0.5290237467018469
+82,Kata gue mslhnya cm di zunesh yg demen blunder. Sekali dibalikin ke si ujin lngsng keliatan perbedaan gameplay kan 😅 (walopun gameplay ujin masi suka kalah retri dibanding jungler tim lain),kata mslhnya cuma zunesh demen blunder sekali dibalikin si ujin lngsng liat beda gameplay walopun gameplay ujin mas suka kalau retri banding jungler tim,0,safe,non-cyberbullying,0,0.5290237467018469
+83,Lane of down 6:31,lane of down,0,safe,non-cyberbullying,0,0.5290237467018469
+84,lol malah maenin xorizo,lol malah maenin xorizo,0,safe,non-cyberbullying,0,0.5290237467018469
+85,Rendyy mana woy 😮,rendyy mana woy,0,safe,non-cyberbullying,0,0.5290237467018469
+86,Astaghfirullah pada judol,astaghfirullah judol,0,safe,non-cyberbullying,0,0.5290237467018469
+87,Lah evos gomta ganti pemain sudah betul2 kayak kemaren lawan dewa mlh gati pemain lagi bobrok evos lama2,lah evos gomta main betul kemaren lawan dewa mlh gati main bobrok evos lama,0,safe,non-cyberbullying,0,0.5290237467018469
+88,Udah paling bener sutsujin jngler good bles rrq🔥🫵,paling benar sutsujin jngler good bles rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+89,Udh gua bilang yg bermasalah itu si zuned,saya bilang masalah si zuned,0,safe,non-cyberbullying,0,0.5290237467018469
+90,"Astagaaa si swallok ngapain main dstu, gda pemain lain apa?",astagaaa si swallok ngapain main dstu gda main apa,0,safe,non-cyberbullying,0,0.5290237467018469
+91,Apa cmn gw yang ngeuh klo toy tiap pake granger tp tanpa skin lebih jagoo,apa cuma yang ngeuh kalau toy tiap pakai granger tanpa skin lebih jagoo,0,safe,non-cyberbullying,0,0.5290237467018469
+92,Buzzer kemarin balik lgi di youtube MPL wkwk,buzzer kemarin balik di youtube mpl wkwk,0,safe,non-cyberbullying,0,0.5290237467018469
+93,makanya jangan juned mulu akhh dimainin😂😂,makanya jangan juned mulu akhh dimainin,0,safe,non-cyberbullying,0,0.5290237467018469
+94,sutsujin main yss di mpl berasa main rank,sutsujin main yss mpl asa main rank,0,safe,non-cyberbullying,0,0.5290237467018469
+95,JANGAN JUDI GUYS!!!,jangan judi guys,0,safe,non-cyberbullying,0,0.5290237467018469
+96,kuch evos gak bisa ngedraft kah,kuch evos bisa ngedraft,0,safe,non-cyberbullying,0,0.5290237467018469
+97,"Anjir chants² Persija pada di pake 😅 ( Dewi Fortuna, Persija dulu baru kamu)",anjir chants persija di pakai dewi fortuna persija dulu baru kamu,1,minor_negative,non-cyberbullying,0,0.5290237467018469
+98,Mbak juneng ga main ga seru,mbak juneng main seru,0,safe,non-cyberbullying,0,0.5290237467018469
+99,Akhir nya main koh susutsujin,akhir main koh susutsujin,0,safe,non-cyberbullying,0,0.5290237467018469
+100,"Rendi diganti,, sutjin dimainin.😂😂😂😂MPL lawakkk😂😂😂😂",rendi ganti sutjin dimaininmpl lawakkk,0,safe,non-cyberbullying,0,0.5290237467018469
+101,Anak SONIC liat game ini pasti terasa hambar..... Engga woowww gituuuuu,anak sonic liat game pasti asa hambar engga woowww gituuuuu,0,safe,non-cyberbullying,0,0.5290237467018469
+102,"Mending mainin ujin aja , biar seru leg 2 lawan onic , kalo zunes penis mah , gamenya ngantuk",mending mainin ujin biar seru leg lawan onic kalau zunes penis mah gamenya ngantuk,0,safe,non-cyberbullying,0,0.5290237467018469
+103,"Kenapa di mainkan sutsujin, kan lebih jago jungkir barunya.",di main sutsujin lebih jago jungkir baru,0,safe,non-cyberbullying,0,0.5290237467018469
+104,Kocak Claude,kocak claude,0,safe,non-cyberbullying,0,0.5290237467018469
+105,Sendal nih mainnya nyebelin terus.   😂😂😂,sendal nih main nyebelin terus,0,safe,non-cyberbullying,0,0.5290237467018469
+106,Ternyata zunesh nya tolol😂😂😂,nyata zunesh tolol,4,moderate_toxic,cyberbullying,1,9.113636363636363
+107,Kangen lemon,kangen lemon,0,safe,non-cyberbullying,0,0.5290237467018469
+108,"Nah ini menarik.   Ujin kan keren !!!!🎉🎉
+
+Anda tuh spesialis runer up . 
+
+Jgn mau kalah sama EVOS .. amanin posisi Runner up sejak dini .😂",nah tarik ujin keren tuh spesialis runer up jangan mau kalau sama evos amanin posisi runner up sejak dini,0,safe,non-cyberbullying,0,0.5290237467018469
+109,HIDUP JOKOWI,hidup jokowi,0,safe,non-cyberbullying,0,0.5290237467018469
+110,berisik bgt kingdom baru kuga game 1😂,berisik banget kingdom baru kuga game,0,safe,non-cyberbullying,0,0.5290237467018469
+111,albert suru out aj,albert suru out,0,safe,non-cyberbullying,0,0.5290237467018469
+112,lahhh rendy knapa diganti?,lahhh rendy knapa ganti,0,safe,non-cyberbullying,0,0.5290237467018469
+113,Jelek bener gameplay evos. Bau2 ky turun mdl wkwk,jelek benar gameplay evos bau ky turun mdl wkwk,4,moderate_toxic,cyberbullying,1,9.113636363636363
+114,Dyren otw onic,dyren otw onic,0,safe,non-cyberbullying,0,0.5290237467018469
+115,Sia² beli sendal dan xorizo kecewa evos lawan RRQ lemah,sia beli sendal xorizo kecewa evos lawan rrq lemah,0,safe,non-cyberbullying,0,0.5290237467018469
+116,"Evos kasihan sama rrq ,biar dapet point boyy",evos kasih sama rrq biar point boyy,0,safe,non-cyberbullying,0,0.5290237467018469
+117,Suwelow beban di evos mending Rendy aja wkwkwk.. 😢,suwelow beban evos mending rendy wkwkwk,0,safe,non-cyberbullying,0,0.5290237467018469
+118,Woee evos mna roam rendy,woee evos mna roam rendy,0,safe,non-cyberbullying,0,0.5290237467018469
+119,"Kyy roam sekalas mpl mau inisiasi keliatan bgt sama musuhnya, kek bocah epic maen rank",kyy roam kalas mpl mau inisiasi liat banget sama musuh bocah epic maen rank,0,safe,non-cyberbullying,0,0.5290237467018469
+120,Gw heran si kzqyut dapet ide dari mana gati sutsujin sama jung aneh,heran si kzqyut ide mana gati sutsujin sama jung aneh,0,safe,non-cyberbullying,0,0.5290237467018469
+121,DYREEEEENNNNN MANA DYREEEEENN,dyreeeeennnnn mana dyreeeeenn,0,safe,non-cyberbullying,0,0.5290237467018469
+122,Boikot dyf,boikot dyf,0,safe,non-cyberbullying,0,0.5290237467018469
+123,Kok Rendy di ganti sama Xorizo,kok rendy nanti sama xorizo,0,safe,non-cyberbullying,0,0.5290237467018469
+124,Xoryzo..anak emas pelatih yg notabene pecinta sejati RRQ. Ganti pelatih norak,xoryzoanak emas latih notabene cinta sejati rrq latih norak,0,safe,non-cyberbullying,0,0.5290237467018469
+125,Gasabar gua liat roster skrng rrq vs Sonic apakah Sonic bakalan diayam ayamin lagi sama RRQ atau sebaliknya,gasabar liat roster skrng rrq vs sonic sonic bakal ayam ayamin sama rrq balik,0,safe,non-cyberbullying,0,0.5290237467018469
+126,Kingdom vs Everybody,kingdom vs everybody,0,safe,non-cyberbullying,0,0.5290237467018469
+127,SOnic lagi nyimak 🤗,sonic nyimak,0,safe,non-cyberbullying,0,0.5290237467018469
+128,Epos epos menang,epos epos memang,0,safe,non-cyberbullying,0,0.5290237467018469
+129,Hanya bisa jadi notifikasi 😂😅😂😅😂😅😂,bisa jadi notifikasi,0,safe,non-cyberbullying,0,0.5290237467018469
+130,Badut mpl yg real badut tu EVOS sebenarnya wkwkwk team di goa gini ngapain di mpl,badut mpl real badut tu evos benar wkwkwk team goa gin ngapain mpl,0,safe,non-cyberbullying,0,0.5290237467018469
+131,Akhirnya ujin mainnnn 🎉🎉,akhir ujin mainnnn,0,safe,non-cyberbullying,0,0.5290237467018469
+132,mic casternya pake yang bagus sih,mic casternya pakai bagus sih,0,safe,non-cyberbullying,0,0.5290237467018469
+133,Si Erlan ya bego,si erlan bego,4,moderate_toxic,cyberbullying,1,9.113636363636363
+134,Rw,rw,0,safe,non-cyberbullying,0,0.5290237467018469
+135,ez game,ez game,0,safe,non-cyberbullying,0,0.5290237467018469
+136,Seneng kalo SUT sujij main,neng kalau sut sujij main,0,safe,non-cyberbullying,0,0.5290237467018469
+137,udah dibilangin penyakitnya ada di kyy,dibilangin sakit di kyy,0,safe,non-cyberbullying,0,0.5290237467018469
+138,Boleh si ujin lev 15 mnit 9,si ujin lev mnit,0,safe,non-cyberbullying,0,0.5290237467018469
+139,Sisssttt🤫,sisssttt,0,safe,non-cyberbullying,0,0.5290237467018469
+140,"Bahkan di lagu remix, ada sound effect P҉U҉L҉A҉U҉W҉I҉N҉ nyelip lucu.",di lagu remix sound effect pulauwin nyelip lucu,0,safe,non-cyberbullying,0,0.5290237467018469
+141,Cici semahal itu?,cici mahal,0,safe,non-cyberbullying,0,0.5290237467018469
+142,Sekarang semua timeline dipenuhi dengan 🅿︎🆄🅻︎🅰︎🆄︎🆆︎🅸︎🅽︎.,sekarang semua timeline penuh,0,safe,non-cyberbullying,0,0.5290237467018469
+143,Sticker di laptop mahasiswa zaman now pasti ada ❝PULAUWIN❞.,sticker laptop mahasiswa zaman now ada pulauwin,0,safe,non-cyberbullying,0,0.5290237467018469
+144,"Teman lama ngajak reuni, katanya semua udah main bareng P͟͟U͟͟L͟͟A͟͟U͟͟W͟͟I͟͟N͟͟.",teman lama ngajak reuni kata semua main bareng pulauwin,0,safe,non-cyberbullying,0,0.5290237467018469
+145,"Komentar netizen di IG, isinya pada bahas P͙U͙L͙A͙U͙W͙I͙N͙.",komentar netizen ig isi bahas pulauwin,0,safe,non-cyberbullying,0,0.5290237467018469
+146,"Lihat orang jualan kaos di pasar, ada yang tulisannya 🅿︎︎︎︎🆄︎🅻︎🅰︎🆄︎🆆︎🅸︎🅽︎.",lihat orang jual kaos pasar yang tulis,0,safe,non-cyberbullying,0,0.5290237467018469
+147,"Setiap nongkrong bareng teman, pasti ada bahasan 𝔓𝔘𝔏𝔄𝔘𝔚𝔌𝔑.",nongkrong bareng teman ada bahas,0,safe,non-cyberbullying,0,0.5290237467018469
+148,"Di belakang mobil travel, ada stiker besar bertuliskan P͓̽U͓̽L͓̽A͓̽U͓̽W͓̽I͓̽N͓̽.",belakang mobil travel stiker benar tulis pulauwin,0,safe,non-cyberbullying,0,0.5290237467018469
+149,"Ada mural keren di tembok kampus, tulisannya ✧𝙋𝙐𝙇𝘼𝙐𝙒𝙄𝙉✧.",mural keren tembok kamu tulis,0,safe,non-cyberbullying,0,0.5290237467018469
+150,"Setiap buka Twitter, trending topic-nya gak jauh-jauh dari 🅿︎🆄🅻︎🅰︎🆄︎🆆︎🅸︎🅽︎.",bukan twitter trending topicnya jauhjauh,0,safe,non-cyberbullying,0,0.5290237467018469
+151,Kalender meja teman kantor ada logo ❝PULAUWIN❞ kecil di sudutnya.,kalender meja teman kantor logo pulauwin kecil sudut,0,safe,non-cyberbullying,0,0.5290237467018469
+152,Makasih VYN akhirnya RRQ bisa main bagus.,terima kasih vyn akhir rrq main bagus,0,safe,non-cyberbullying,0,0.5290237467018469
+153,padahal cuman ingin liat rrq hancur gragra buang skyler gw,padahal cuma liat rrq hancur gragra buang skyler,0,safe,non-cyberbullying,0,0.5290237467018469
+154,"Lagi ngopi di warung, orang sebelah ngobrolin P͟͟U͟͟L͟͟A͟͟U͟͟W͟͟I͟͟N͟͟.",ngopi warung orang belah ngobrolin pulauwin,0,safe,non-cyberbullying,0,0.5290237467018469
+155,"Menang kalah ,aku tetep dukung #evos 🎉",memang kalau aku tetep dukung,0,safe,non-cyberbullying,0,0.5290237467018469
+156,Zunesh out,zunesh out,0,safe,non-cyberbullying,0,0.5290237467018469
+157,ROAM EVOS ITU PERLU DI EVALUASI LAGI BNYAKAN BLUNDER DARI KEMARIN2 LAWAN DEWA,roam evos perlu evaluasi bnyakan blunder kemarin lawan dewa,0,safe,non-cyberbullying,0,0.5290237467018469
+158,Muali dah peternak2 pada keluar 😂😂😂😂,mual ternak keluar,0,safe,non-cyberbullying,0,0.5290237467018469
+159,Seharus nya di turnamen ga usah ada lord karna lord membantu tim bisa memenangkan pertandingan,harus di turnamen usah lord lord bantu tim menang tanding,0,safe,non-cyberbullying,0,0.5290237467018469
+160,Akhirnya rrq terkoar setelah makan seblak dan dengar aung macan😅😅,akhir rrq koar akan seblak dengan aung macan,0,safe,non-cyberbullying,0,0.5290237467018469
+161,😜👆,,0,safe,non-cyberbullying,0,0.5290237467018469
+162,"kalau onic season lalu : yeb tolongin yeb
+rrq season ini : jin tolongin jin",kalau onic season lalu yeb tolongin yeb rrq season jin tolongin jin,0,safe,non-cyberbullying,0,0.5290237467018469
+163,Ini rrq yang kita kenal sutsujin main ngeriii,rrq kita kenal sutsujin main ngeriii,0,safe,non-cyberbullying,0,0.5290237467018469
+164,Albert di rrq dan evos dua² nya kalah lawan sutsujin,albert rrq evos ya kalau lawan sutsujin,0,safe,non-cyberbullying,0,0.5290237467018469
+165,Spirit 9KG...mad love Artur🎉🎉❤,spirit kgmad love artur,0,safe,non-cyberbullying,0,0.5290237467018469
+166,"Memalukan, kalah sama RRQ",malu kalau sama rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+167,GG rrq,gg rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+168,KOCAKK vynn draft nya😂😂,kocakk vynn draft,0,safe,non-cyberbullying,0,0.5290237467018469
+169,"ERLAN poke BEBAN EVOS
+
+Kasian banget liat Albert 😢",erlan poke beban evos kasi banget liat albert,3,moderate_toxic,non-cyberbullying,0,0.5290237467018469
+170,Waaaahhh menang nih RRQ 😂,waaaahhh memang nih rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+171,"Nah ini baru bnran rrq, susunan player yang dlu lebih baik drpd yang kemarin²",nah baru bnran rrq susun player dlu lebih baik drpd kemarin,0,safe,non-cyberbullying,0,0.5290237467018469
+172,Dri kmrin² sitsujin dimainin kan enak lihat nya,kmrin sitsujin dimainin enak lihat,0,safe,non-cyberbullying,0,0.5290237467018469
+173,Ini turnamen ape custom kok gampang banget sih dek 😂😂😂😂😂,turnamen ape custom kok gampang banget sih dek,0,safe,non-cyberbullying,0,0.5290237467018469
+174,Erlan tanpa Granger = erlin 😂,erlan granger erlin,0,safe,non-cyberbullying,0,0.5290237467018469
+175,onic dyren kapan di announcement?,onic dyren kapan announcement,0,safe,non-cyberbullying,0,0.5290237467018469
+176,#VIVAROAR,,0,safe,non-cyberbullying,0,0.5290237467018469
+177,Udah paling bener Rendy yg main malah di ganti🙄,paling benar rendy main malah nanti,0,safe,non-cyberbullying,0,0.5290237467018469
+178,kok xorizo sih,kok xorizo sih,0,safe,non-cyberbullying,0,0.5290237467018469
+179,Zunest out dahh bagusan sutsujin,zunest out dahh bagus sutsujin,0,safe,non-cyberbullying,0,0.5290237467018469
+180,Udh di bilang mainin sutsujin,di bilang mainin sutsujin,0,safe,non-cyberbullying,0,0.5290237467018469
+181,Uchiha Veye'eng,uchiha veyeeng,0,safe,non-cyberbullying,0,0.5290237467018469
+182,Bener bener hina ini 😂,benar benar hina,4,moderate_toxic,cyberbullying,1,9.113636363636363
+183,Semenjak gabung RRQ SUTSUJIN adalah jungler Indonesia yg paling sangat mengerikan dan sangat kuat versi saya. Cuma sayang tim nya sering blunder.,semenjak gabung rrq sutsujin jungler indonesia paling sangat keri sangat kuat versi cuma tim sering blunder,0,safe,non-cyberbullying,0,0.5290237467018469
+184,EVOS is back 🗿,evos is back,0,safe,non-cyberbullying,0,0.5290237467018469
+185,Skylar kata Caster,skylar kata caster,0,safe,non-cyberbullying,0,0.5290237467018469
+186,"Roar :""v",roar v,0,safe,non-cyberbullying,0,0.5290237467018469
+187,"Evos aja yg lemah, bukan RRQ yg wah",evos lemah bukan rrq yang wah,0,safe,non-cyberbullying,0,0.5290237467018469
+188,"Padahal cuma tukar jungler rrq, tapi gameplay nya langsung beda rrq, emang pengalaman ga bisa bohong",padahal cuma tukar jungler rrq gameplay langsung beda rrq memang alam bisa bohong,0,safe,non-cyberbullying,0,0.5290237467018469
+189,Ini yang katanya evos is back wkwkwkwwk 😂😂 ayam gini eits,yang kata evos is back wkwkwkwwk ayam gin eits,0,safe,non-cyberbullying,0,0.5290237467018469
+190,"di FB koar"" Rendy katanya di atas Lutpi mana ni🗿 katanya rrq mau di 2:0 sama Rendy",fb koar rendy kata atas lutpi mana ni kata rrq mau sama rendy,0,safe,non-cyberbullying,0,0.5290237467018469
+191,Emwang nya mana,memang mana,0,safe,non-cyberbullying,0,0.5290237467018469
+192,kumisss inguss😂,kumisss inguss,0,safe,non-cyberbullying,0,0.5290237467018469
+193,Hha,hha,0,safe,non-cyberbullying,0,0.5290237467018469
+194,Mana tuh orang karbit 😂,mana tuh orang karbit,0,safe,non-cyberbullying,0,0.5290237467018469
+195,6:35 in game,in game,0,safe,non-cyberbullying,0,0.5290237467018469
+196,6:25 In game,in game,0,safe,non-cyberbullying,0,0.5290237467018469
+197,Ke 3🎉,,0,safe,non-cyberbullying,0,0.5290237467018469
+198,Jungle yg tertukar :) VivaRoar 🧡💙,jungle tukar vivaroar,0,safe,non-cyberbullying,0,0.5290237467018469
+199,Gass pertama,gass pertama,0,safe,non-cyberbullying,0,0.5290237467018469
+200,Bang kumis menangis melihat kenyataan ini 😅😅😅,bang kumis menang lihat nyata,0,safe,non-cyberbullying,0,0.5290237467018469
+201,1,,0,safe,non-cyberbullying,0,0.5290237467018469
+202,Kedua❤,dua,0,safe,non-cyberbullying,0,0.5290237467018469
+203,EL FLIKER🗿,el fliker,0,safe,non-cyberbullying,0,0.5290237467018469
+204,😂😂❤❤,,0,safe,non-cyberbullying,0,0.5290237467018469
+205,Masih ada purify malah di gas ke turet 🗿,kasih purify malah gas turet,0,safe,non-cyberbullying,0,0.5290237467018469
+206,Rewatch dream Team ❤,rewatch dream team,0,safe,non-cyberbullying,0,0.5290237467018469
+207,Raja dari segala raja stress kali 😂😂😂,raja segala raja stress kali,0,safe,non-cyberbullying,0,0.5290237467018469
+208,26:32 😜👆,,0,safe,non-cyberbullying,0,0.5290237467018469
+209,yang paaling sayang punya exp bagus gak main2 malah mendingin cadangan onic kasihan badan  idok lah gak kuat buat nahan nya mikir rrq😅😅😅,paaling punya exp bagus main malah dingin cadang onic kasih badan idok lah kuat buat nahan mikir rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+210,"RRQ tinggal kenangan skrng,wkwkwkwk",rrq tinggal kenang skrngwkwkwkwk,0,safe,non-cyberbullying,0,0.5290237467018469
+211,Rrq skrg mainya trlalu napsu itu yg bkin kalahnya mereka,rrq skrg mai trlalu napsu yang bkin kalah,0,safe,non-cyberbullying,0,0.5290237467018469
+212,"KNP GAK SUTSUJIN?
+ZUNESH JELEK JUNGLER NYA",knp sutsujin zunesh jelek jungler,4,moderate_toxic,cyberbullying,1,9.113636363636363
+213,"Raja dari segala raja..????
+Raja mana tuhhhhh😂😂😂😂😂😂",raja segala raja raja mana tuhhhhh,0,safe,non-cyberbullying,0,0.5290237467018469
+214,Pok pok pok pokee,pok pok pok pokee,3,moderate_toxic,non-cyberbullying,0,0.5290237467018469
+215,"RRQ kan mainnya blunder dan ngasaL udah kayak main di EPIC,,,,",rrq main blunder ngasal seperti main epic,0,safe,non-cyberbullying,0,0.5290237467018469
+216,Apaan harith roam sama Gatot gold lane,apa harith roam sama gatot gold lane,0,safe,non-cyberbullying,0,0.5290237467018469
+217,kumar bro!!!!! omong omong arti dari l itu loser artinya pecundang,mar bro omong omong arti l loser arti cundang,3,moderate_toxic,non-cyberbullying,0,0.5290237467018469
+218,"26:39 
+kumar : wleeee ☝😜",mar wleeee,0,safe,non-cyberbullying,0,0.5290237467018469
+219,TOYYY TOLOL😂,toyyy tolol,4,moderate_toxic,cyberbullying,1,9.113636363636363
+220,Toy mentok cuman bisa granger gaya gayaan make moskov. Tombak mlenceng trs. Dom dom,toy mentok cuma granger gaya gaya make moskov tombak mlenceng terus dom dom,0,safe,non-cyberbullying,0,0.5290237467018469
+221,"RRQ mau buat Skylar menyesal ehhehh kok malah Skylar yg buat RRQ menyesal,,dan lbih percaya dgn MM tombak tumpul yg di pakai toy,, untuk RRQ semoga sadar dri pengalaman🤫",rrq mau buat skylar sesal ehhehh kok malah skylar buat rrq menyesaldan lbih percaya mm tombak tumpul di pakai toy rrq moga sadar alam,0,safe,non-cyberbullying,0,0.5290237467018469
+222,Mana geme play rrq yg dulu,mana geme play rrq dulu,0,safe,non-cyberbullying,0,0.5290237467018469
+223,aura comeback nya mulai muncul wkkwwk,aura comeback mulai muncul wkkwwk,0,safe,non-cyberbullying,0,0.5290237467018469
+224,Mek,mek,0,safe,non-cyberbullying,0,0.5290237467018469
+225,SKYLAR JAGO TAPI DI BUANG 🎉,skylar jago di buang,0,safe,non-cyberbullying,0,0.5290237467018469
+226,Aroma aroma cambex kta caster😂😂😂lawak bgt,aroma aroma cambex kta casterlawak banget,0,safe,non-cyberbullying,0,0.5290237467018469
+227,"23:52 Dengan sadar dia berucap ""Aroma come back nya mulai tercium nih"" wkwk mimpii bangett lu lim😂",sadar ucap aroma come back mulai cium nih wkwk mimpi banget kamu lim,0,safe,non-cyberbullying,0,0.5290237467018469
+228,"RRQ UDAH GA ADA POWER LAGI. BUAT LAWAN ONIC, TIM RRQ MAKIN KE SINI MAKIN DOWN POWERNYA., TAMBAH ANCURRR RRQ.  😁😂👍",rrq tidak power buat lawan onic tim rrq makin sini makin down powernya tambah ancurrr rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+229,"RRQ UDAH GA ADA POWER LAGI. BUAT LAWAN ONIC, TIM RRQ MAKIN KE SINI MAKIN DOWN POWERNYA., TAMBAH ANCURRR RRQ.  😁😂👍",rrq tidak power buat lawan onic tim rrq makin sini makin down powernya tambah ancurrr rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+230,Rinz di atas Sanz😂😂😂 tololll,rinz atas sanz tololll,0,safe,non-cyberbullying,0,0.5290237467018469
+231,"Paling males kalo denger ranger emas jadi caster, gatau apa yg di omongin sama dia 😭😭",paling males kalau denger ranger emas jadi caster gatau apa di omongin sama,0,safe,non-cyberbullying,0,0.5290237467018469
+232,😂😂 kelihatan banget Caster mpl anggota kongdom 😂😂😂,lihat banget caster mpl anggota kongdom,0,safe,non-cyberbullying,0,0.5290237467018469
+233,22:50 kurang baik apa king onic Masi dikasi nafas ppq😹,kurang baik apa king onic mas kasi nafas ppq,0,safe,non-cyberbullying,0,0.5290237467018469
+234,20:17 toyy ngapain ayam😂,toyy ngapain ayam,0,safe,non-cyberbullying,0,0.5290237467018469
+235,inimah onic lgi main rank,inimah onic main rank,0,safe,non-cyberbullying,0,0.5290237467018469
+236,zunesh jungler demem blunder😹😹😹,zunesh jungler demem blunder,0,safe,non-cyberbullying,0,0.5290237467018469
+237,25:14Tempat yg sama beberapa kali kroco di solo kill king sanz😂,tempat sama beberapa kali kroco solo kill king sanz,0,safe,non-cyberbullying,0,0.5290237467018469
+238,"23:49 mulai tercium aroma kombek😂 poke"" dpt lord blm tentu bisa..lgian oniic ngasi nafas doang ke ppq😹",mulai cium aroma kombek poke lord tentu bisalgian oniic ngasi nafas orang ppq,3,moderate_toxic,non-cyberbullying,0,0.5290237467018469
+239,lokal vs lokal,lokal vs lokal,0,safe,non-cyberbullying,0,0.5290237467018469
+240,Udah punya godlane yg jago malah dijual ke onic,punya godlane jago malah jual onic,0,safe,non-cyberbullying,0,0.5290237467018469
+241,L,l,0,safe,non-cyberbullying,0,0.5290237467018469
+242,Dream team vs team yang lama nggak pegang piala mpl,dream team vs team lama pegang piala mpl,0,safe,non-cyberbullying,0,0.5290237467018469
+243,"yang mengatakan dirinya si paling jago mid lane yaitu RINZ, dikasih paham sama king mid lane GILA SANZ🤣",kata diri si paling jago mid lane rinz kasih paham sama king mid lane gila sanz,0,safe,non-cyberbullying,0,0.5290237467018469
+244,"""Giilak sanz"" HITS HARD🔥🔥",giilak sanz hits hard,0,safe,non-cyberbullying,0,0.5290237467018469
+245,"Digame 1 dan 2 sangat terlihat jelas perbedaan level pemain inti, jungler dan gold lane sangat berbeda jauh jam terbang dan improve sama timnya 😂",digame sangat lihat jelas beda level main inti jungler gold lane sangat beda jauh jam terbang improve sama tim,0,safe,non-cyberbullying,0,0.5290237467018469
+246,#blockrinz,,0,safe,non-cyberbullying,0,0.5290237467018469
+247,Rrq udh kaya main rank anjir jelek bgt wkwkwk,rrq kaya main rank anjir jelek banget wkwkwk,5,moderate_toxic,cyberbullying,1,9.113636363636363
+248,🤙🤪,,0,safe,non-cyberbullying,0,0.5290237467018469
+249,"Zunesh cocok jadi GoldLaner tuh, objektif kuat dia kalo push turret.",zunesh cocok jadi goldlaner tuh objektif kuat kalau push turret,0,safe,non-cyberbullying,0,0.5290237467018469
+250,yg di ganti malah sutsujin wkwk rinz gnti,di malah sutsujin wkwk rinz gnti,0,safe,non-cyberbullying,0,0.5290237467018469
+251,"RRQ emang sudah tak seperti dlu.. Jujur yang main nya seperti gak tahu build. Tahu ONIC tuh jago DPS 
+Gw lebih percaya LEMON daripda KAIRI",rrq memang tak dlu jujur main seperti tahu build tahu onic tuh jago dps lebih percaya lemon daripda kairi,0,safe,non-cyberbullying,0,0.5290237467018469
+252,Onic vs Public😂,onic vs public,0,safe,non-cyberbullying,0,0.5290237467018469
+253,"Skylar: Oh gini rupanya satu team sama team yang jago, gue ikutan jago mainnya 😂",skylar gin rupa satu team sama team jago ikut jago main,0,safe,non-cyberbullying,0,0.5290237467018469
+254,onic selalu di hati,onic selalu hati,0,safe,non-cyberbullying,0,0.5290237467018469
+255,REQ skrng udah gak kayak dulu..aku pi dah pilih ONIC,req skrng tidak duluaku pi pilih onic,0,safe,non-cyberbullying,0,0.5290237467018469
+256,wkwkwk 10:25 rinz disetrum sanz,wkwkwk rinz setrum sanz,0,safe,non-cyberbullying,0,0.5290237467018469
+257,Onic dan hyper impostor wkwkwkwkk,onic hyper impostor wkwkwkwkk,0,safe,non-cyberbullying,0,0.5290237467018469
+258,Raja dari segala raja.. 🤡🤡,raja segala raja,0,safe,non-cyberbullying,0,0.5290237467018469
+259,RRQ LAWAK😂😂😂,rrq lawak,0,safe,non-cyberbullying,0,0.5290237467018469
+260,RRQ DALAM BENCANA,rrq bencana,0,safe,non-cyberbullying,0,0.5290237467018469
+261,1:48,,0,safe,non-cyberbullying,0,0.5290237467018469
+262,Penonton rrq dah mulai kurang... Gw kingdom males Skrang gak SE antusias yg lalu lalu,tonton rrq mulai kurang kingdom males skrang se antusias lalu lalu,0,safe,non-cyberbullying,0,0.5290237467018469
+263,Skylar kejam... 😂😂,skylar kejam,0,safe,non-cyberbullying,0,0.5290237467018469
+264,mid yang menyedihkan,mid sedih,0,safe,non-cyberbullying,0,0.5290237467018469
+265,"Cuman bisa bilang ""PANASKAH MANIZZ"" buat rrq",cuma bilang panas manizz buat rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+266,"Hahahahahahahaha yg empat sibuk lock skylar, yang satu sibuk personal ke sanz😂",hahahahahahahaha empat sibuk lock skylar satu sibuk personal sanz,0,safe,non-cyberbullying,0,0.5290237467018469
+267,Kalah sama tim ga jago😂,kalau sama tim jago,0,safe,non-cyberbullying,0,0.5290237467018469
+268,"roaster gonta""i Mulu coba roaster lemon,dyreen/r7,sitsujin,toyy,vyn/naomi udah  cocok jangan ganti""",roaster gontai mulu coba roaster lemondyreenrsitsujintoyyvynnaomi cocok jangan,0,safe,non-cyberbullying,0,0.5290237467018469
+269,kenapa tidak bermain di pentas ye,tidak main pentas ye,0,safe,non-cyberbullying,0,0.5290237467018469
+270,Awal kehancuran rrq 😂😂,awal hancur rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+271,sehat² dah rrq punya jungler jago. malah gk di mainin.,sehat rrq punya jungler jago malah di mainin,0,safe,non-cyberbullying,0,0.5290237467018469
+272,😂,,0,safe,non-cyberbullying,0,0.5290237467018469
+273,Sadar ga si di game pertama sama game kedua rinz mati di base pas waktu mau end,sadar si game pertama sama game dua rinz mati base pas waktu mau end,5,moderate_toxic,cyberbullying,1,9.113636363636363
+274,Jelas sutsujin masih ada malah mainin player amatiran,jelas sutsujin kasih malah mainin player amatir,0,safe,non-cyberbullying,0,0.5290237467018469
+275,27:00 salfok sama tempat minum skyler :v,salfok sama tempat minum skyler v,0,safe,non-cyberbullying,0,0.5290237467018469
+276,RRQ RINZ ? 😂😂😂😂,rrq rinz,0,safe,non-cyberbullying,0,0.5290237467018469
+277,Dah pindah fans ke onic aja...,pindah fans onic,0,safe,non-cyberbullying,0,0.5290237467018469
+278,Jungler kgak jelas sering blunder masih dipake buang aja hanyut in dicomberan,jungler kgak jelas sering blunder kasih dipake buang hanyut in comberan,0,safe,non-cyberbullying,0,0.5290237467018469
+279,Woii RRQ percaya sm gue selama ou mainin zunesh bukanya naik malah menurun perform RRQ🤦‍♂️🤦‍♂️,woii rrq percaya sm sama ou mainin zunesh bukan naik malah turun perform rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+280,kasian sama caster kingdom 🤣🤣🤣 gak netral bjirr yang menang Onic yang di puji RRQ 🫣🫣🫣,kasi sama caster kingdom netral bjirr memang onic di puji rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+281,26.40 ☝️😝,,0,safe,non-cyberbullying,0,0.5290237467018469
+282,"top global recall"" tuh sanz🗿",top global recall tuh sanz,0,safe,non-cyberbullying,0,0.5290237467018469
+283,Mainkaannnnn sutsujinnnnn,mainkaannnnn sutsujinnnnn,0,safe,non-cyberbullying,0,0.5290237467018469
+284,Ni jungler rrq pro player apa pemain epic blunder Mulu dah,ni jungler rrq pro player apa main epic blunder mulu,0,safe,non-cyberbullying,0,0.5290237467018469
+285,"Dari dulu rrq adalah tim hama, player yang sooo jago padahal kenyataannya poke pokee😢",dulu rrq tim hama player sooo jago padahal nyata poke pokee,6,severe_toxic,non-cyberbullying,0,0.5290237467018469
+286,"Gada lAwan
+🎉",gada lawan,0,safe,non-cyberbullying,0,0.5290237467018469
+287,Gg onic,gg onic,0,safe,non-cyberbullying,0,0.5290237467018469
+288,Serasa main trio idok sama rinz sama dayyren.. 2 orang gak guna di rrq buang2 waktu,serasa main trio idok sama rinz sama dayyren orang guna rrq buang waktu,0,safe,non-cyberbullying,0,0.5290237467018469
+289,Ganti juggler baru bisa itu kalau gini trus bisa apa rrq..,juggler baru itu kalau gin terus apa rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+290,"rqq opset mulu ,pemain dulu blikin woy",rqq opset mulu main dulu blikin woy,0,safe,non-cyberbullying,0,0.5290237467018469
+291,"KETIKA AYAM BERSABDA
+
+
+
+kata rinzz ""MEREKA GA JAGO""
+
+
+EKWKEKWKWK",ayam sabda kata rinzz tidak jago ekwkekwkwk,0,safe,non-cyberbullying,0,0.5290237467018469
+292,"Team juara kali ini pasti onic ,. 
+Rrq sudah tidak ada harapan karena pemain nya jelek semua 😅",team juara kali pasti onic rrq tidak harap main jelek semua,4,moderate_toxic,cyberbullying,1,9.113636363636363
+293,"Jujur gua benci tim rrq 
+Love onic",jujur benci tim rrq love onic,0,safe,non-cyberbullying,0,0.5290237467018469
+294,Ngelepas yss si kacau,ngelepas yss si kalau,0,safe,non-cyberbullying,0,0.5290237467018469
+295,"Ini rrq di bilang raja, nda lebih dari bahan latihan onic😢😂",rrq bilang raja nda lebih bahan latih onic,0,safe,non-cyberbullying,0,0.5290237467018469
+296,Toyy miss ulti padahal moskov termasuk dari 4 Hero andalanku aku pun diejek gara-gara itu😢,toyy miss ulti padahal moskov masuk hero andal aku ejek garagara,0,safe,non-cyberbullying,0,0.5290237467018469
+297,Gimana king ppq sama kingdom nya Masi aman kan😂,bagaimana king ppq sama kingdom mas aman,0,safe,non-cyberbullying,0,0.5290237467018469
+298,Duh yang kemaren gantiin Skylar di RRQ kek gini maennya😂,duh kemaren gantiin skylar rrq gin maennya,0,safe,non-cyberbullying,0,0.5290237467018469
+299,"10:30 sanz pencet purify, dyrenn jadi ulti ke lutpi... detail kecil yang lumayan bisa jadi titik perlawanan rrq ke onic🙊",sanz pencet purify dyrenn jadi ulti lutpi detail kecil lumayan jadi titik lawan rrq onic,0,safe,non-cyberbullying,0,0.5290237467018469
+300,"Pembuktian skaylar,season kemarin banyak yang bilang toy lebih jago. Dan sekarang keliatan siapa yang jago dan bisa gendong. 😜👆",bukti skaylarseason kemarin banyak bilang toy lebih jago sekarang liat siapa jago bisa gendong,0,safe,non-cyberbullying,0,0.5290237467018469
+301,Rrq poke,rrq poke,3,moderate_toxic,non-cyberbullying,0,0.5290237467018469
+302,"RRQ Akan bangkit,walaupun Sanz Dan Skylar seperti itu,gue yakin Akan Ada titik balik buat rrq",rrq bangkitwalaupun sanz skylar itugue yakin ada titik balik buat rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+303,hdeh zuneshh😂,hdeh zuneshh,0,safe,non-cyberbullying,0,0.5290237467018469
+304,"Onic selain team kuat, mereka juga bisnis sampingan jualan wig",onic team kuat juga bisnis samping jual wig,0,safe,non-cyberbullying,0,0.5290237467018469
+305,"Waktunya RRQ berbenah, dah gitu aja dari dulu😂",waktu rrq benah gitu dari dulu,0,safe,non-cyberbullying,0,0.5290237467018469
+306,🤪🤪🤪,,0,safe,non-cyberbullying,0,0.5290237467018469
+307,day 1 belajar moskov,day ajar moskov,0,safe,non-cyberbullying,0,0.5290237467018469
+308,RRQ JADI AYAM DEPAN SKYLAR😂BIARKAN BRO MENGGORENG TEAM YANG MEMBUANG DIA DEMI MAINAN(TOY),rrq jadi ayam depan skylarbiarkan bro goreng team memang demi mainantoy,0,safe,non-cyberbullying,0,0.5290237467018469
+309,Dulu gw kingdom😂tpi stelah liat roaster rrq skrng kek POKE....POKEZCUTE BUANG EMAS DEMI MAINAN(TOY)😂😂,dulu kingdomtpi stelah liat roaster rrq skrng pokepokezcute buang emas mainantoy,0,safe,non-cyberbullying,0,0.5290237467018469
+310,"Tapi kyknya skylar di match sebelum²nya sebelum lawan rrq sengaja main biasa aja,gk mau nonjolin jatidiri diaa,biar mereka juga nganggapnya biasa aja dan bakal gampang,..tpi pas lawan rrq dikeluarin tuh power skill diaa ampe kena mental si team raja😂😂",kyknya skylar match belum lawan rrq sengaja main ajagk mau nonjolin jatidiri diaabiar juga nganggapnya saja bakal gampangtpi pas lawan rrq dikeluarin tuh power skill diaa karena mental si team raja,0,safe,non-cyberbullying,0,0.5290237467018469
+311,REQ MM NYA TOLOL,req mm tolol,4,moderate_toxic,cyberbullying,1,9.113636363636363
+312,Rinz aman kah?,rinz aman,0,safe,non-cyberbullying,0,0.5290237467018469
+313,"rrq jgn kan melawan onic dgn pemain legend nya yg mau dapat Mseriesnya .. melawan EVOS Legend aja tetap kalah dri jaman bahula.. mau lemon juga yg main 🤣,pantasan skylar pindah dari rrq timnya sampah, apalagi roasters yg sekarang.. el blunder 🤣",rrq jangan lawan onic main legend mau mseriesnya lawan evos legend tetap kalau jaman bahula mau lemon yang main pantas skylar pindah rrq tim apalagi roasters yang sekarang el blunder,0,safe,non-cyberbullying,0,0.5290237467018469
+314,L,l,0,safe,non-cyberbullying,0,0.5290237467018469
+315,si zunes mirip haya di tim kalo saya lagi main solo rank,si zunes mirip haya tim kalau lagi main solo rank,0,safe,non-cyberbullying,0,0.5290237467018469
+316,26:33 TENGIL BANGET COWO SZE WKWK,tengil banget cowo sze wkwk,0,safe,non-cyberbullying,0,0.5290237467018469
+317,kingdom baper😝👆🏻,kingdom baper,0,safe,non-cyberbullying,0,0.5290237467018469
+318,Kemana sutsujinmu RRQ?,sutsujinmu rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+319,Jelek bgt posisi team fightny rrq.. sumpah main rank aja,jelek banget posisi team fightny rrq sumpah main rank,4,moderate_toxic,cyberbullying,1,9.113636363636363
+320,Rrq rrq,rrq rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+321,Skaylar putus asa gak bisa ngalahin onic .. dan skarang pindah ke onic wkwk pngen megang piala,skaylar putus asa bisa ngalahin onic sekarang pindah onic wkwk pngen memang piala,0,safe,non-cyberbullying,0,0.5290237467018469
+322,sanz jan gitu kasian rrq,sanz jan gitu kasi rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+323,Rrq haaaaa kocak🤣🤣🤣,rrq haaaaa kocak,0,safe,non-cyberbullying,0,0.5290237467018469
+324,Setiap kalimat di video ini terasa tulus dan penuh makna.❤️𝐓𝐈𝐌𝐎𝟒𝐃❤️ Yang paling aku suka adalah bagaimana kamu bikin penonton merasa nyaman dan gak dihakimi. Sukses selalu buat kamu dan channel ini!,kalimat video asa tulus penuh makna paling aku suka bagaimana kamu bikin tonton rasa nyaman tidak hakim sukses selalu buat kamu channel,0,safe,non-cyberbullying,0,0.5290237467018469
+325,Bikin senyum sendiri! 𝐓𝐈𝐌𝐎𝟒𝐃,bikin senyum sendiri,0,safe,non-cyberbullying,0,0.5290237467018469
+326,Keren parah 𝐓𝐈𝐌𝐎𝟒𝐃! Pengen nonton ulang. 👏,keren parah ken nonton ulang,1,minor_negative,non-cyberbullying,0,0.5290237467018469
+327,Akhirnya yg di tunggu2😁 𝐓𝐈𝐌𝐎𝟒𝐃 gas,akhir di tunggu gas,0,safe,non-cyberbullying,0,0.5290237467018469
+328,Cakep Kali 𝐓𝐈𝐌𝐎𝟒𝐃,cakep kali,0,safe,non-cyberbullying,0,0.5290237467018469
+329,"Mantep ⭐𝐓𝐈𝐌𝐎𝟒𝐃⭐ udah jadi kebiasaan, Caerr terusss !!!",mantep jadi biasa caerr terus,0,safe,non-cyberbullying,0,0.5290237467018469
+330,Semoga video-video kamu selalu menarik dan sukses besar! ⚡𝐓𝐈𝐌𝐎𝟒𝐃⚡ Berkah selalu untuk kamu dan channelmu. ⚡𝐓𝐈𝐌𝐎𝟒𝐃⚡,moga videovideo kamu selalu tarik sukses benar berkah selalu kamu channelmu,0,safe,non-cyberbullying,0,0.5290237467018469
+331,𝐓𝐈𝐌𝐎𝟒𝐃 kasih sentuhan magis! Gak bisa berhenti nonton. 🙌,kasih sentuh magis bisa henti nonton,0,safe,non-cyberbullying,0,0.5290237467018469
+332,Mantap! 𝗧𝗶𝗺𝗼𝟰𝗗,mantap,0,safe,non-cyberbullying,0,0.5290237467018469
+333,"Reactionnya bikin ngakak terus! Sambil ketawa, aku sambil menang di 𝐓𝐈𝐌𝐎𝟒𝐃! 😆🎲",reactionnya bikin ngakak terus ketawa aku memang,0,safe,non-cyberbullying,0,0.5290237467018469
+334,"Konten seperti ini yang dibutuhkan di YouTube. Sukses terus!,𝐓𝐈𝐌𝐎𝟒𝐃!",konten ini butuh youtube sukses terus,0,safe,non-cyberbullying,0,0.5290237467018469
+335,Bangun tidur langsung buka ✌𝐓𝐈𝐌𝐎𝟒𝐃✌.,bangun tidur langsung bukan,0,safe,non-cyberbullying,0,0.5290237467018469
+336,"Kontennya bikin betah, 👵𝐓𝐈𝐌𝐎𝟒𝐃👵 juga bikin betah sampe pagi. 🌄",konten bikin betah bikin betah pagi,0,safe,non-cyberbullying,0,0.5290237467018469
+337,benci bgt kalo casternya memihak,benci banget kalau casternya pihak,0,safe,non-cyberbullying,0,0.5290237467018469
+338,Ppffttt baru liat jungler kaya junes,ppffttt baru liat jungler kaya junes,0,safe,non-cyberbullying,0,0.5290237467018469
+339,😜👆,,0,safe,non-cyberbullying,0,0.5290237467018469
+340,lagi nunggu kata kata toy lebih jago dari skyalar🤭,nunggu kata kata toy lebih jago skyalar,0,safe,non-cyberbullying,0,0.5290237467018469
+341,terima kasih buat sonic😂,terima kasih buat sonic,0,safe,non-cyberbullying,0,0.5290237467018469
+342,"Balikin sutsujin, gak rela kalo sampe gak main 1:01",balikin sutsujin rela kalau tidak main,0,safe,non-cyberbullying,0,0.5290237467018469
+343,ditutorin main pharsa tuh,ditutorin main pharsa tuh,0,safe,non-cyberbullying,0,0.5290237467018469
+344,"MENDING MILIH RRQ ATAU SKYLAR?YA MENDING MILIH RRQ LAH,SKYLAR SIAPA?GBLK😂😂😂",mending milih rrq skylarya mending milih rrq lahskylar siapagblk,0,safe,non-cyberbullying,0,0.5290237467018469
+345,POV : MABAR SATU TEAM SAMA ANOMALI JAM 9 PAGI,pov mabar satu team sama anomali jam pagi,0,safe,non-cyberbullying,0,0.5290237467018469
+346,😜👆,,0,safe,non-cyberbullying,0,0.5290237467018469
+347,Bay bay RRQ blundar blunder 👏👏,bay bay rrq blundar blunder,0,safe,non-cyberbullying,0,0.5290237467018469
+348,🔥🔥,,0,safe,non-cyberbullying,0,0.5290237467018469
+349,Testh,testh,0,safe,non-cyberbullying,0,0.5290237467018469
+350,"Rinz terlalu sombong, makan tu darksistem",rinz terlalu sombong tu darksistem,0,safe,non-cyberbullying,0,0.5290237467018469
+351,"Oiii RRQ jgn SOMBONG jdi tim.. ngata2 in ONIC ga jago! 
+Tim klian tuh kliatan kren cma krna ada sutsujin doang cong🤣🤣..",oiii rrq jangan sombong jadi tim ngata in onic jago tim klian tuh kliatan cuma ada sutsujin orang cong,0,safe,non-cyberbullying,0,0.5290237467018469
+352,2:0🤫🤫,,0,safe,non-cyberbullying,0,0.5290237467018469
+353,RRQ BOT,rrq bot,3,moderate_toxic,non-cyberbullying,0,0.5290237467018469
+354,RRQ BOT,rrq bot,3,moderate_toxic,non-cyberbullying,0,0.5290237467018469
+355,Apalah zunes ga becus main kyk epikk main nya,apa zunes becus main kyk epikk main,0,safe,non-cyberbullying,0,0.5290237467018469
+356,mampus ppq,mampus ppq,5,moderate_toxic,cyberbullying,1,9.113636363636363
+357,"MANA UJINN WOII, YANG BERMASALAH MID NYA YG DIGANTI MALAH UJIN
+COBA LIAT MENIT INI COOO 25:15",mana ujinn woii masalah mid yang ganti malah ujin coba liat menit cooo,0,safe,non-cyberbullying,0,0.5290237467018469
+358,25:15 oakwoakw,oakwoakw,0,safe,non-cyberbullying,0,0.5290237467018469
+359,Beda 10.000 gold lu mau come back. .mimpi,beda gold kamu mau come back mimpi,0,safe,non-cyberbullying,0,0.5290237467018469
+360,"Dear pak ap 
+Penjualaan skylar dari ewc tapi ttp ae pemain pemain yg kurang jam terbang internasional gimana mau ngejar internasional kalo mental pemain kita kalo ketemu lawan kuat tuh sudah menyerah sblm bertarung minimal rrq buy out yg punya jam bermain di internasional satu atau 2 supaya sisa nya player lokal yg bisa ngimbangin jamin bukan cuma lokal next bakal ada piala Internasional rrq ini komunitas terbesar di indonesia dengan kingdom nya dana dari ewc dana dari penjualan pemain dan dana dari mpl harus nya bisa dong beli 1-2 bintang",dear pak ap penjualaan skylar ewc ttp main main kurang jam terbang internasional bagaimana mau ngejar internasional kalau mental main kalau ketemu lawan kuat tuh serah sblm tarung minimal rrq buy out punya jam main internasional satu saya sisa player lokal ngimbangin jamin bukan cuma lokal next bakal piala internasional rrq komunitas besar indonesia kingdom dana ewc dana jual main dana mpl ya bisa dong beli bintang,0,safe,non-cyberbullying,0,0.5290237467018469
+361,Jari L untuk apa?,jari l apa,0,safe,non-cyberbullying,0,0.5290237467018469
+362,😜👆 26:35,,0,safe,non-cyberbullying,0,0.5290237467018469
+363,ini rrq lagi eror kah?game 1 ngga dapat turtel ataupun lord🤣🤣😂😂,rrq eror kahgame ngga turtel atau lord,0,safe,non-cyberbullying,0,0.5290237467018469
+364,Rrq tidur aja udah wkwkw,rrq tidur sudah wkwkw,0,safe,non-cyberbullying,0,0.5290237467018469
+365,"Dyren maju mulu bro, makanan onic hari², plis gw greget pas nonton udh berapa kali mati sendirian di depan😭",dyren maju mulu bro makan onic hari plis greget pas nonton berapa kali mati sendiri depan,5,moderate_toxic,cyberbullying,1,9.113636363636363
+366,"25:15 ngapain cobak ha? 🤣🤣🤣 Mid cacat bukan malah di benerin eeee malah ngotakatik exp & jungler nya 🤣🤣🤣🤣🤣  MAKIN TOLOL RRQ
+
+RINZ OUT COK!!!",ngapain cobak ha mid cacat bukan malah benerin eeee malah ngotakatik exp jungler makin tolol rrq rinz out cok,8,severe_toxic,cyberbullying,1,9.113636363636363
+367,Jual skayler beli ampas😜🫵,jual skayler beli ampas,4,moderate_toxic,cyberbullying,1,9.113636363636363
+368,Udah ya raja rajaanya,ya raja rajaanya,0,safe,non-cyberbullying,0,0.5290237467018469
+369,kairi kepencet emot😜👈🏻,kairi pencet emot,0,safe,non-cyberbullying,0,0.5290237467018469
+370,Klo aja junggle nya hazle pasti gak bakal blunder mulu,kalau junggle hazle tidak bakal blunder mulu,0,safe,non-cyberbullying,0,0.5290237467018469
+371,MLBB X agen ali,mlbb x agen ali,0,safe,non-cyberbullying,0,0.5290237467018469
+372,RRQ emang gak se ambis Onic ya kalau dilihat-lihat. Atau emang RRQ mencoba peruntungan niruin Liquid id waktu mereka juara ?,rrq memang se ambis onic kalau dilihatlihat memang rrq coba untung niruin liquid id waktu juara,0,safe,non-cyberbullying,0,0.5290237467018469
+373,Mana nih yg bilang toyy lebih jago dari sekylar,mana nih bilang toyy lebih jago sekylar,0,safe,non-cyberbullying,0,0.5290237467018469
+374,"Enakan skylar 
+Pas di onic klo di rrq wkwk tulang pungung aowkka",skylar pas onic kalau rrq wkwk tulang pungung aowkka,0,safe,non-cyberbullying,0,0.5290237467018469
+375,Kocak hypr rrq,kocak hypr rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+376,"Wajarlah caster ga omongin ONIC lagi udah terlalu perfect timnya,ga ada  pembahasan lagi buat ONIC jadi buat para SONIC jgn ngaku fans ONIC kalo caster g ngomongin ONIC malah kesel. Justru caster tuh ngebahas tim yang lagi underperform atau tim yang lagi bermasalah. Jgn bikin malu SONIC dengan komen yang gajelas arahnya,bangga harusnya ONIC gajadi perbincangan caster.",wajar caster omongin onic sudah terlalu perfect timnyaga bahas buat onic jadi buat sonic jangan ngaku fans onic kalau caster g ngomongin onic malah kesel justru caster tuh ngebahas tim lagi underperform tim lagi masalah jangan bikin malu sonic komen gajelas arahnyabangga harus onic jadi bincang caster,0,safe,non-cyberbullying,0,0.5290237467018469
+377,"Macam lawan anak"" 😂😂",macam lawan anak,0,safe,non-cyberbullying,0,0.5290237467018469
+378,Kairi kepencet emot😂,kairi pencet emot,0,safe,non-cyberbullying,0,0.5290237467018469
+379,rrQ menang nangis,rrq memang nang,0,safe,non-cyberbullying,0,0.5290237467018469
+380,Pengkhianat!!!!,khianat,0,safe,non-cyberbullying,0,0.5290237467018469
+381,TAMAN BERMAIN KING SANZ,taman main king sanz,0,safe,non-cyberbullying,0,0.5290237467018469
+382,Coba paus di 26:40😅,coba paus,0,safe,non-cyberbullying,0,0.5290237467018469
+383,Si Ap nangis di pojokan 😂😂,si ap nang pojok,0,safe,non-cyberbullying,0,0.5290237467018469
+384,2 kali di takedown di base nya sendiri rinz 🗿,kali takedown base sendiri rinz,0,safe,non-cyberbullying,0,0.5290237467018469
+385,Jungel RRQ gajelas wkakw,jungel rrq gajelas wkakw,0,safe,non-cyberbullying,0,0.5290237467018469
+386,Kocak RRQ mau lok sekaylar ga bisa hahaahha,kocak rrq mau lok sekaylar bisa hahaahha,0,safe,non-cyberbullying,0,0.5290237467018469
+387,"value skylar di onic mah bakal ketauan nnti pas lawan ph, klo lawan lokal udh jelas menang 4 sepuh onic emang monster",value skylar onic mah bakal tau pas lawan ph kalau lawan lokal jelas memang sepuh onic memang monster,0,safe,non-cyberbullying,0,0.5290237467018469
+388,Srinz top midlane indo saat ini 🔥💪🏻,srinz top midlane indo ini,0,safe,non-cyberbullying,0,0.5290237467018469
+389,"Ujin knp gak di mainin dah. Trs kenapa hazle gk di mainin, padahal lebih baik hazle dibanding jungler yg baru",ujin knp di mainin terus hazle di mainin padahal lebih baik hazle banding jungler baru,0,safe,non-cyberbullying,0,0.5290237467018469
+390,"Ada jungler bagus malah g dipake,pantes terakhir juara s9,coachnya aja banyak ngomong",jungler bagus malah g dipakepantes akhir juara scoachnya banyak ngomong,0,safe,non-cyberbullying,0,0.5290237467018469
+391,Mendingan albert aja di rrq,mending albert di rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+392,"No respect untuk RRQ, nampak sekali ngincar skylar.",no respect rrq nampak sekali ngincar skylar,0,safe,non-cyberbullying,0,0.5290237467018469
+393,Bahagia itu PHILIPINA,bahagia philipina,0,safe,non-cyberbullying,0,0.5290237467018469
+394,Mau onic menang mu lbh bnyk pialanya Tenang RRQ msh di hati. Ga tergiur sma Tim onic yg klas pemainnya bgus2,mau onic memang mu lbh bnyk piala tenang rrq msh hati giur sama tim onic klas main bgus,0,safe,non-cyberbullying,0,0.5290237467018469
+395,Lim Kocul caster berat ke ppq😂,lim kocul caster berat ppq,0,safe,non-cyberbullying,0,0.5290237467018469
+396,2:0 kkkkkkk  onic🎉🎉🎉🎉🎉🎉,kkkkkkk onic,0,safe,non-cyberbullying,0,0.5290237467018469
+397,"kekalahan rrq itu ada pada diren dan idok yg bermain nafsu ,pada akhirnya rrq tumbang terus",kalah rrq ada diren idok main nafsu akhir rrq tumbang terus,0,safe,non-cyberbullying,0,0.5290237467018469
+398,Onic   世界第一 🎉🎉🎉🎉,onic,0,safe,non-cyberbullying,0,0.5290237467018469
+399,"Kasian sih kingdom lu tau ga rrq cuma nyari bisnis saja dari player sama hal nya kaya Dortmund di Jerman atau chelsea di Inggris orbitin atau beli pemain stengah mateng udah jadi ya di jual ini semua soal bisnis contoh Albert skylar sekarang onic membangun galacticos nya dulu galacticos pernah di buat evos dengan membeli atimage dan berhasil juara season 7 
+Setelah skylar siapa lagi yg akan di jual",kasi sih kingdom kamu tahu rrq cuma nyari bisnis dari player sama kaya dortmund jerman chelsea inggris orbitin beli main stengah mateng jadi jual semua soal bisnis contoh albert skylar sekarang onic bangun galacticos ya dulu galacticos pernah di buat evos beli atimage hasil juara season skylar siapa yang di jual,0,safe,non-cyberbullying,0,0.5290237467018469
+400,Skylar: akhirnya bisa ngerasain main ber5,skylar akhir ngerasain main ber,0,safe,non-cyberbullying,0,0.5290237467018469
+401,Gunta ganti pemain terus setiap seson🗿,gunta main terus seson,0,safe,non-cyberbullying,0,0.5290237467018469
+402,😜👆 mikir kids,mikir kids,0,safe,non-cyberbullying,0,0.5290237467018469
+403,baik,baik,0,safe,non-cyberbullying,0,0.5290237467018469
+404,😢 Apa Itu,apa,0,safe,non-cyberbullying,0,0.5290237467018469
+405,"kadang klo gk sengaja lihat vid ini lgi hati gua dgn lembut berkata ""Fany magang di depan pawang Fany""",kadang kalau sengaja lihat vid lagi hati dengan lembut kata fany magang depan pawang fany,0,safe,non-cyberbullying,0,0.5290237467018469
+406,"hostnya apa bgt anjg mihak rrq trs, toy emg selegendaris itu kah, dikasih telor mampus tuh",hostnya apa banget anjing mihak rrq terus toy memang legendaris kah kasih telor mampus tuh,9,extreme_cyberbullying,cyberbullying,1,9.113636363636363
+407,"Skylar sm savero sama"" jago, diganti"" goldnya pun tetep auto win",skylar sm savero sama jago ganti goldnya tetep auto win,0,safe,non-cyberbullying,0,0.5290237467018469
+408,TIM ONIC GG,tim onic gg,0,safe,non-cyberbullying,0,0.5290237467018469
+409,😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂,,0,safe,non-cyberbullying,0,0.5290237467018469
+410,Fanny zunes darat cok😂😂😂,fanny zunes cok,0,safe,non-cyberbullying,0,0.5290237467018469
+411,Fani nya bot masih jago gw anjirr,fani bot kasih jago anjirr,3,moderate_toxic,non-cyberbullying,0,0.5290237467018469
+412,Rrq terlalu kuat ngubah pemain. Udah dua tahun kek gini,rrq terlalu kuat ngubah main dua tahu gin,0,safe,non-cyberbullying,0,0.5290237467018469
+413,Kairi di kasih lance 💀,kairi kasih lance,0,safe,non-cyberbullying,0,0.5290237467018469
+414,Rinz Rinz jago kagak gendong kagak bacot nya gede banget sampah sampah,rinz rinz jago kagak gendong kagak bacot gede banget sampai,2,minor_negative,non-cyberbullying,0,0.5290237467018469
+415,😮😮😮😮😮😮😮😮,,0,safe,non-cyberbullying,0,0.5290237467018469
+416,bagusan set up navi daripada ppq😂,bagus set up navi ppq,0,safe,non-cyberbullying,0,0.5290237467018469
+417,RRQ tanpa Skylar bisa apa,rrq skylar apa,0,safe,non-cyberbullying,0,0.5290237467018469
+418,19:01 mahal lutpi,mahal lutpi,0,safe,non-cyberbullying,0,0.5290237467018469
+419,13:06ngapain yam😂,ngapain,0,safe,non-cyberbullying,0,0.5290237467018469
+420,Fanny ngepusss njirrrr,fanny ngepusss njirrrr,0,safe,non-cyberbullying,0,0.5290237467018469
+421,"""Sakaratul maut gak tuh "" 😂😅",sakaratul maut tuh,0,safe,non-cyberbullying,0,0.5290237467018469
+422,Ganti rins ny,rins ny,0,safe,non-cyberbullying,0,0.5290237467018469
+423,Cw jadi coach jir,cw jadi coach jir,0,safe,non-cyberbullying,0,0.5290237467018469
+424,Dream team vs ????? Kapan pegang piala mpl lagi,dream team vs kapan pegang piala mpl,0,safe,non-cyberbullying,0,0.5290237467018469
+425,El blunder rinz,el blunder rinz,0,safe,non-cyberbullying,0,0.5290237467018469
+426,Game boring lebih menantang NAVI VS ONIC 😂,game boring lebih tantang navi vs onic,0,safe,non-cyberbullying,0,0.5290237467018469
+427,#blockrinz,,0,safe,non-cyberbullying,0,0.5290237467018469
+428,"Gak usah komen lah cil ujung""nya Manas""in lawan atau pun mendewa""kan tim sendiri.. diliat bocil banget sifat elu..",usah komen lah cil ujung manasin lawan pun dewa tim sendiri liat bocil banget sifat kamu,0,safe,non-cyberbullying,0,0.5290237467018469
+429,"Gua aja kingdom liat kagak panas kagak jelek""in tim, liat kopi+rokok+nyantai itulah sifatt dewasa.. kalah menang respack semua tim gua. Oke...",saja kingdom liat kagak panas kagak jelekin tim liat kopirokoknyantai sifatt dewasa kalau memang respack semua tim oke,0,safe,non-cyberbullying,0,0.5290237467018469
+430,"JANGAN BISA BACOTT DAN JELEK""IN TIM.. KALO BISANYA BEGITU MAIN AJA SANA SENDIRI EMANG BISA ELU ???",jangan bacott jelekin tim kalau bisa main sana sendiri memang kamu,0,safe,non-cyberbullying,0,0.5290237467018469
+431,Awokwok badut tolol,awokwok badut tolol,4,moderate_toxic,cyberbullying,1,9.113636363636363
+432,Toy maen aman aja akwkwkwk,toy maen aman akwkwkwk,0,safe,non-cyberbullying,0,0.5290237467018469
+433,Rrq tanpa skylar ga ada yg gendong yg jago cuma lerr,rrq skylar ada gendong jago cuma lerr,0,safe,non-cyberbullying,0,0.5290237467018469
+434,7:01 si kumar unjuk skill depan Midlane jago 🤘😜🤙,si mar skill depan midlane jago,0,safe,non-cyberbullying,0,0.5290237467018469
+435,"Meski gua bukan kingdom tapi gua suka legenda RRQ Housi ""Lemon"" siganteng kalem ..",meski bukan kingdom saya suka legenda rrq housi lemon siganteng kalem,0,safe,non-cyberbullying,0,0.5290237467018469
+436,Knp g ad pnontonn,knp g ad pnontonn,0,safe,non-cyberbullying,0,0.5290237467018469
+437,Itu jijik kli gw lihat cara main Fanny nya,jijik kli lihat cara main fanny,0,safe,non-cyberbullying,0,0.5290237467018469
+438,Good,good,0,safe,non-cyberbullying,0,0.5290237467018469
+439,lah si zunesh kenapa beli 2item itu lol,lah si zunesh beli item lol,0,safe,non-cyberbullying,0,0.5290237467018469
+440,Fany cmn 2 kabel a0aan coba,fany cuma kabel aaan coba,0,safe,non-cyberbullying,0,0.5290237467018469
+441,"Gua udah pernah komen diig RRQ langsung buatt mainin sujin aja krn zunesh masih perlu banyak belajar masih anak2 ini,,,,jgn smpe MPL zunesh main siih",sudah pernah komen diig rrq langsung buatt mainin sujin karena zunesh kasih perlu banyak ajar kasih anak inijgn smpe mpl zunesh main siih,0,safe,non-cyberbullying,0,0.5290237467018469
+442,"mid nya mesti ganti sih RRQ, nggak guna jir",mid mesti sih rrq guna jir,0,safe,non-cyberbullying,0,0.5290237467018469
+443,Ererkyu cangkang doang 😂,ererkyu cangkang orang,0,safe,non-cyberbullying,0,0.5290237467018469
+444,Lutpi man of the match sejati di game ini ...,lutpi man of the match sejati game,0,safe,non-cyberbullying,0,0.5290237467018469
+445,Kemarin kemarin mana nih yg banding banding in skylar sama toyy?😅,kemarin kemarin mana nih banding banding in skylar sama toyy,0,safe,non-cyberbullying,0,0.5290237467018469
+446,Onic vs ranked evic ini mh 🤣,onic vs ranked evic mh,0,safe,non-cyberbullying,0,0.5290237467018469
+447,lutphi matang,lutphi matang,0,safe,non-cyberbullying,0,0.5290237467018469
+448,Izrail Xinn 😢,izrail xinn,0,safe,non-cyberbullying,0,0.5290237467018469
+449,"Lagi"" Kalah draft si kata gua mah",kalau draft si kata mah,0,safe,non-cyberbullying,0,0.5290237467018469
+450,Lupi seperti nampol nyamuk 😂,lupi nampol nyamuk,0,safe,non-cyberbullying,0,0.5290237467018469
+451,"1 yang pasti, yang buat onic tak terkalahkan adalah sanz, kairi, kiboy 🤗",pasti buat onic tak kalah sanz kairi kiboy,0,safe,non-cyberbullying,0,0.5290237467018469
+452,Kok yang mvp lutpi harusnya kairi dong gold nya lebih banyak,kok mvp lutpi harus kairi dong gold lebih banyak,0,safe,non-cyberbullying,0,0.5290237467018469
+453,"4 ngincer Skylar
+1orang pengen nge solo kill sanz",ngincer skylar orang ken nge solo kill sanz,0,safe,non-cyberbullying,0,0.5290237467018469
+454,"Jadi ga seru game nya rrg vs onic karna ga ada greget nya dari RRQ jadi ga semangat lagi main mlbb, jadi seperti ga ada penyemangat main lagi RRQ nya lemah gini😂, kayak nya pensiun di season ini deh saya main ML 😂🏆⚰️🪦",jadi seru game rrg vs onic greget dari rrq jadi tidak semangat main mlbb jadi tidak semangat main rrq lemah gin ya pensiun season deh main ml,0,safe,non-cyberbullying,0,0.5290237467018469
+455,Maaf gue fans skylar,maaf fans skylar,0,safe,non-cyberbullying,0,0.5290237467018469
+456,"Dulu suka rrq karna ada skylar, sekarang suka onic karna ada skylar 👍",dulu suka rrq ada skylar sekarang suka onic ada skylar,0,safe,non-cyberbullying,0,0.5290237467018469
+457,Itu yss lepas,yss lepas,0,safe,non-cyberbullying,0,0.5290237467018469
+458,raja halu lagi unjuk gigi tpi g punya gigi,raja halu untuk gigi g punya gigi,0,safe,non-cyberbullying,0,0.5290237467018469
+459,Match ini kok toy kya maen brawl ya di atas mulu.. Idiot bngt,match kok toy maen brawl di atas mulu idiot banget,4,moderate_toxic,cyberbullying,1,9.113636363636363
+460,"Mulai dari era ny vyn, rrq sangat membudaya dengan feeder.",mulai era ny vyn rrq sangat budaya feeder,3,moderate_toxic,non-cyberbullying,0,0.5290237467018469
+461,Apalah pick uranus bego bgt,apa pick uranus bego banget,4,moderate_toxic,cyberbullying,1,9.113636363636363
+462,hidup onic❤🎉,hidup onic,0,safe,non-cyberbullying,0,0.5290237467018469
+463,anjim Rinz mati dalam basenya sendiri 😂,anjing rinz mati basenya sendiri,9,extreme_cyberbullying,cyberbullying,1,9.113636363636363
+464,"Balikin team RRQ yg dlu, Sutsujin, Toy, Dyren, Rinz, dan Idok, gk usah di ganti yg lain",balikin team rrq dlu sutsujin toy dyren rinz idok usah nanti lain,0,safe,non-cyberbullying,0,0.5290237467018469
+465,Buang aja si rinz beban😊,buang si rinz beban,0,safe,non-cyberbullying,0,0.5290237467018469
+466,Vix onic win 19:25,vix onic win,0,safe,non-cyberbullying,0,0.5290237467018469
+467,Di recal recal Ama sanz,recal recal sama sanz,0,safe,non-cyberbullying,0,0.5290237467018469
+468,Rrq=hama,rrqhama,0,safe,non-cyberbullying,0,0.5290237467018469
+469,Pesona tim gk jago,pesona tim jago,0,safe,non-cyberbullying,0,0.5290237467018469
+470,Rasakan kekejaman mantan,rasa kejam mantan,0,safe,non-cyberbullying,0,0.5290237467018469
+471,17:18  itu midlane jago ngapain diem doang,midlane jago ngapain diem orang,0,safe,non-cyberbullying,0,0.5290237467018469
+472,Sorry kok gak di stage main nya?,sorry kok di stage main,0,safe,non-cyberbullying,0,0.5290237467018469
+473,Zunesh ngapain 😂,zunesh ngapain,0,safe,non-cyberbullying,0,0.5290237467018469
+474,Gak kebayang di onic ad idok,bayang onic ad idok,0,safe,non-cyberbullying,0,0.5290237467018469
+475,rrrq badut yang ga terima tuolol,rrrq badut tidak terima tuolol,0,safe,non-cyberbullying,0,0.5290237467018469
+476,Rinz amatir bngt,rinz amatir banget,0,safe,non-cyberbullying,0,0.5290237467018469
+477,paste4d gila paling mantap pokok nya,pasted gila paling mantap pokok,0,safe,non-cyberbullying,0,0.5290237467018469
+478,Ga ngeliat nilai plus zunesh gw mending sutsujin,ngeliat nilai plus zunesh mending sutsujin,0,safe,non-cyberbullying,0,0.5290237467018469
+479,"roster terbapuk, kecewa roster seblumnya udh ada improv malah digantj",roster terbapuk kecewa roster seblumnya ada improv malah digantj,0,safe,non-cyberbullying,0,0.5290237467018469
+480,gg kairi dan lutpii,gg kairi lutpii,0,safe,non-cyberbullying,0,0.5290237467018469
+481,Wkwkwk Ererqe 😂,wkwkwk ererqe,0,safe,non-cyberbullying,0,0.5290237467018469
+482,Lutpi Bankai💀,lutpi bankai,0,safe,non-cyberbullying,0,0.5290237467018469
+483,Akhirnya bisa membungkam mulut2 fans ppq 😅😅😅 banyangkan lw kalah syalar bakalan di buly habis2san,akhir bungkam mulut fans ppq banyangkan lw kalau syalar bakal buly habissan,0,safe,non-cyberbullying,0,0.5290237467018469
+484,Bahagia itu PHILIPINA,bahagia philipina,0,safe,non-cyberbullying,0,0.5290237467018469
+485,"Yg cacat MID nya yg di rombak JUGLER nya 😂😂😂
+
+Turot pharsa nyeeet!!!
+RINZ OUT",cacat mid yang rombak jugler turot pharsa nyeeet rinz out,4,moderate_toxic,cyberbullying,1,9.113636363636363
+486,Kenapa ujin gak di turunkan shi,ujin di turun shi,0,safe,non-cyberbullying,0,0.5290237467018469
+487,Beda kelas,beda kelas,0,safe,non-cyberbullying,0,0.5290237467018469
+488,"Gmn g kuat, orang mage nya sans, jung nya kairi, mm nya skylar",bagaimana g kuat orang mage sans jung kairi mm skylar,0,safe,non-cyberbullying,0,0.5290237467018469
+489,the real Fanny dongeng (songo cengeng),the real fanny dongeng songo cengeng,0,safe,non-cyberbullying,0,0.5290237467018469
+490,Makasi onic skaylarnya di mainin trus moga menang,makas onic skaylarnya mainin terus moga memang,0,safe,non-cyberbullying,0,0.5290237467018469
+491,Game idiot from moonton,game idiot from moonton,4,moderate_toxic,cyberbullying,1,9.113636363636363
+492,toy ayam di hadapan skylarr,toy ayam hadap skylarr,0,safe,non-cyberbullying,0,0.5290237467018469
+493,Jugler rrq masih magang .. mending sutsujun,jugler rrq kasih magang mending sutsujun,0,safe,non-cyberbullying,0,0.5290237467018469
+494,Riiiiiiiiinzzzzz😂😂😂,riiiiiiiiinzzzzz,0,safe,non-cyberbullying,0,0.5290237467018469
+495,Rrq bot banget,rrq bot banget,3,moderate_toxic,non-cyberbullying,0,0.5290237467018469
+496,RRQ butuh hpr yg jago bukn kyk gini,rrq butuh hpr jago bukan kyk gin,0,safe,non-cyberbullying,0,0.5290237467018469
+497,Bubar bubar😂 ppq,bubar bubar ppq,0,safe,non-cyberbullying,0,0.5290237467018469
+498,"SKYLAR PENGKHIANAT RRQ ,Liat Muka nya aja Menjijikan 😂😂",skylar khianat rrq liat muka saja jijik,0,safe,non-cyberbullying,0,0.5290237467018469
+499,kok itu gk di stage ya mainnya?,kok tidak stage main,0,safe,non-cyberbullying,0,0.5290237467018469
+500,"Jungler baru lebih gajelas coii ,",jungler baru lebih gajelas coii,0,safe,non-cyberbullying,0,0.5290237467018469
+501,Rins ya poke,rins poke,3,moderate_toxic,non-cyberbullying,0,0.5290237467018469
+502,"RRQ - Main Rank
+Onic - Pro International
+
+Gak tau mau komen apalg???
+Emang beda kelas sekrang 😅, bumi dan langit",rrq main rank onic pro international tahu mau komen apalg memang beda kelas sekarang bumi langit,0,safe,non-cyberbullying,0,0.5290237467018469
+503,Lutpi nyapu SAMPAH,lutpi nyapu,0,safe,non-cyberbullying,0,0.5290237467018469
+504,Suren wee RRQ qontol,suren wee rrq kontol,5,moderate_toxic,cyberbullying,1,9.113636363636363
+505,Onic gg banget uyyy 😎😎😎,onic gg banget uyyy,0,safe,non-cyberbullying,0,0.5290237467018469
+506,Lokal,lokal,0,safe,non-cyberbullying,0,0.5290237467018469
+507,9:16,,0,safe,non-cyberbullying,0,0.5290237467018469
+508,PPQ mode karantina 3 kata lucu😜👆,ppq mode karantina kata lucu,0,safe,non-cyberbullying,0,0.5290237467018469
+509,Rins seperti palyer epik asal buka ulti di tengah rumput tanpa pikir panjang badut,rins palyer epik asal bukan ulti tengah rumput pikir panjang badut,0,safe,non-cyberbullying,0,0.5290237467018469
+510,Rins seperti palyer epik asal buka ulti di tengah rumput tanpa pikir panjang badut,rins palyer epik asal bukan ulti tengah rumput pikir panjang badut,0,safe,non-cyberbullying,0,0.5290237467018469
+511,Zunesh siapa anjr?,zunesh siapa anjr,0,safe,non-cyberbullying,0,0.5290237467018469
+512,Ini RRQ LU SEKARANG PAK AP,rrq kamu sekarang pak ap,0,safe,non-cyberbullying,0,0.5290237467018469
+513,Haha rinz rinz mati di tower 😂😂😂😂,haha rinz rinz mati tower,5,moderate_toxic,cyberbullying,1,9.113636363636363
+514,RRQ pokeee,rrq pokeee,0,safe,non-cyberbullying,0,0.5290237467018469
+515,Si pengkhianat,si khianat,0,safe,non-cyberbullying,0,0.5290237467018469
+516,abang lutpii🥶🥶,abang lutpii,0,safe,non-cyberbullying,0,0.5290237467018469
+517,Early nya si sama2 kuat ya,early si sama kuat,0,safe,non-cyberbullying,0,0.5290237467018469
+518,"kenapa sekarang jadinya ga di stage ya mainnya? sorry, baru nonton mpl lagi🙏🏻",sekarang jadi di stage main sorry baru nonton mpl,0,safe,non-cyberbullying,0,0.5290237467018469
+519,dua kata lucu king toyy,kata lucu king toyy,0,safe,non-cyberbullying,0,0.5290237467018469
+520,katanya onic ga jago kok 2 0,kata onic jago kok,0,safe,non-cyberbullying,0,0.5290237467018469
+521,Main Fasha nyari KDA baguss😂,main fasha nyari kda baguss,0,safe,non-cyberbullying,0,0.5290237467018469
+522,"Gua kigdom tapi sllu respet buat skylar dan di membuktikan klo tidak di pilih di roster rrq akhiranya dinobok rrq,, 
+Coach k4ncut sedang memasak 😂",kigdom sllu respet buat skylar bukti kalau di pilih di roster rrq akhiranya dinobok rrq coach kncut sedang masak,0,safe,non-cyberbullying,0,0.5290237467018469
+523,"Early exp gendong,mid ke late gold yg ganti gendong
+Mantaplah",early exp gendongmid late gold nanti gendong mantap,0,safe,non-cyberbullying,0,0.5290237467018469
+524,jung rrq fokus minions aja,jung rrq fokus minions,0,safe,non-cyberbullying,0,0.5290237467018469
+525,gokil lutpii,gokil lutpii,0,safe,non-cyberbullying,0,0.5290237467018469
+526,bisa ni M7,ni m,0,safe,non-cyberbullying,0,0.5290237467018469
+527,"Toy gold udh ckup pdhl, tapi takut kalo join war😢",toy gold ckup pdhl takut kalau join war,0,safe,non-cyberbullying,0,0.5290237467018469
+528,lutpii keren banget 🔥,lutpii keren banget,0,safe,non-cyberbullying,0,0.5290237467018469
+529,pepeqy hoshi bot,pepeqy hoshi bot,3,moderate_toxic,non-cyberbullying,0,0.5290237467018469
+530,"ABOY PAK AP😂
+RINZ BOT",aboy pak ap rinz bot,3,moderate_toxic,non-cyberbullying,0,0.5290237467018469
+531,Savero😢😢,savero,0,safe,non-cyberbullying,0,0.5290237467018469
+532,Kok gak di MPL Arena pertandingan nya?,kok di mpl tanding,0,safe,non-cyberbullying,0,0.5290237467018469
+533,Hai kalian para karbit. Silakan liat. Kecwa kan skylar gk mati xixixixix,hai kalian karbit sila liat kecwa skylar mati xixixixix,5,moderate_toxic,cyberbullying,1,9.113636363636363
+534,RRQ POOKEE,rrq pookee,0,safe,non-cyberbullying,0,0.5290237467018469
+535,Hahahah badut badut 😂😂😂,hahahah badut badut,0,safe,non-cyberbullying,0,0.5290237467018469
+536,"""RINZ DONGOOOOO""
+udah gitu aja pokonya",rinz dongooooo gitu poko,0,safe,non-cyberbullying,0,0.5290237467018469
+537,Arlott menggila,arlott gila,0,safe,non-cyberbullying,0,0.5290237467018469
+538,Toys=Mainannya king Skylark yakkk🤭🤭🤭,toysmainannya king skylark yakkk,0,safe,non-cyberbullying,0,0.5290237467018469
+539,lutpi jago bngt gila,lutpi jago banget gila,0,safe,non-cyberbullying,0,0.5290237467018469
+540,Ngak usah dilanjut lah mpl nya langsung aja kirim ke gh onic pialanya,ngak usah lanjut lah mpl langsung kirim gh onic piala,0,safe,non-cyberbullying,0,0.5290237467018469
+541,indog tanpa PH hanya abang abang gorengan yang fomo maen ML,indog ph abang abang goreng fomo maen ml,0,safe,non-cyberbullying,0,0.5290237467018469
+542,"""Apaitu Sanz? Ini Rinz yak!"" 🤡🤡🤡🤡🤡",apaitu sanz rinz,0,safe,non-cyberbullying,0,0.5290237467018469
+543,"Ksi paham bang lerrrr , smangat teruss jagoanku",ksi paham bang lerrrr smangat terus jago,0,safe,non-cyberbullying,0,0.5290237467018469
+544,Zunesh mntang² first blood dia lngsung pd bgt pdhl itu pasti udh bakal kebaca sma onic,zunesh mntang first blood lngsung pd banget pdhl pasti bakal baca sama onic,0,safe,non-cyberbullying,0,0.5290237467018469
+545,LANGSUNG AJA KASIH PIALANYA KE ONIC 🥶😂,langsung kasih piala onic,0,safe,non-cyberbullying,0,0.5290237467018469
+546,fanny impure jir🗿,fanny impure jir,0,safe,non-cyberbullying,0,0.5290237467018469
+547,"Jadi malu yang bilang, toy mau sekolahin skylar😂😂😂",jadi malu bilang toy mau sekolahin skylar,0,safe,non-cyberbullying,0,0.5290237467018469
+548,Udhla mending RRQ cari lawan yg lain'jgn lawan Onic percuma endingnya tetap klh jga😂,udhla mending rrq cari lawan lainjgn lawan onic percuma endingnya tetap klh,0,safe,non-cyberbullying,0,0.5290237467018469
+549,EL leader mati dibase lho yah😂😂😂,el leader mati dibase lho,5,moderate_toxic,cyberbullying,1,9.113636363636363
+550,Match yang ga ngebosenim buat di rewatch 😆😆,match tidak ngebosenim buat rewatch,0,safe,non-cyberbullying,0,0.5290237467018469
+551,Tumben toyy gak pake granger,tumben toyy pakai granger,0,safe,non-cyberbullying,0,0.5290237467018469
+552,Kami adalah penyokong dari Malaysia...,adalah sokong malaysia,0,safe,non-cyberbullying,0,0.5290237467018469
+553,"ONIC ID + SKYLER = CALON KUAT JUARA M7! 🔥
+
+Aku nampak potensi besar ONIC ID di M7 kali ni. Masuknya Skylar dalam roster jadi turning point. Kenapa?
+
+1️⃣ Pengalaman & Reputasi
+Skylar bukan player biasa – dia bekas anak murid Arcadia (coach SRG OG). Dari dulu kita tau Arcadia pandai gilap gold laner, dan Skylar antara hasil terbaik.
+
+2️⃣ Rekod Antarabangsa
+Skylar pernah catat 16 kill di pentas internasional sebagai gold laner – ranking kedua tertinggi dunia. Yang pertama pegang rekod tu Innocent dari team SRG OG. Ini bukti Skylar bukan sekadar “nama besar”, tapi memang ada bukti prestasi.
+
+3️⃣ Roster ONIC Dah Lengkap
+Dari semua sudut laner, ONIC ID sekarang hampir sempurna – roamer solid, mid stabil, jungler konsisten, exp kuat, dan kini gold lane ada Skylar. Balance semua line.
+
+4️⃣ Kunci Kemenangan = Mental & Disiplin
+Skill mereka dah world class, tinggal mentaliti & disiplin yang perlu dikunci rapat. Kalau ONIC ID main dengan penuh keyakinan, jaga disiplin dan komunikasi, peluang jadi Juara M7 memang besar.
+
+👉 Jadi, jangan ragu – ONIC ID dengan Skylar memang ada DNA juara! 🇮🇩🏆🔥",onic id skyler calon kuat juara m aku nampak potensi benar onic id m kali ni masuk skylar roster jadi turning point alam reputasi skylar bukan player dia bekas anak murid arcadia coach srg og dulu tahu arcadia pandai gilap gold laner skylar hasil baik rekod antarabangsa skylar pernah catat kill pentas internasional gold laner ranking dua tinggi dunia pertama pegang rekod tu innocent team srg og bukti skylar bukan sekadar nama benar memang bukti prestasi roster onic lengkap semua sudut laner onic id sekarang hampir sempurna roamer solid mid stabil jungler konsisten exp kuat kini gold lane skylar balance semua line kunci menang mental disiplin skill sudah world class tinggal mentaliti disiplin perlu kunci kalau onic id main penuh yakin jaga disiplin komunikasi peluang jadi juara m memang benar jadi jangan ragu onic id skylar memang dna juara,0,safe,non-cyberbullying,0,0.5290237467018469
+554,Rinz Out ntah apa aja midlane nya kacau kali,rinz out ntah apa midlane kalau kali,0,safe,non-cyberbullying,0,0.5290237467018469
+555,"Udh Fiks ini sh, Onic juara MPL lgi, dan udh fiks Onic mental Pgen Juara D M series keliatan, inget kan apa kata Luke sma Aeron, pas Onic Maen, ini Onic kuat banget loh, udh Kya Kelra sma Kingkong",fiks sh onic juara mpl dan fiks onic mental pgen juara d m series liat inget apa kata luke sama aeron pas onic maen onic kuat banget loh ya kelra sama kingkong,0,safe,non-cyberbullying,0,0.5290237467018469
+556,Utamakan Sanz klo war mau menang lawan onic,utama sanz kalau war mau memang lawan onic,0,safe,non-cyberbullying,0,0.5290237467018469
+557,King sanz and Prince Skylark mengoreng RRQ😅,king sanz and prince skylark oreng rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+558,RRQ TERLUNGKUP 😅😅,rrq terlungkup,0,safe,non-cyberbullying,0,0.5290237467018469
+559,Savero mana?,savero mana,0,safe,non-cyberbullying,0,0.5290237467018469
+560,LUTPIII JAGO BGT COKKK,lutpiii jago banget cokkk,0,safe,non-cyberbullying,0,0.5290237467018469
+561,Lutpiiii makin waah aja❤,lutpiiii makin waah,0,safe,non-cyberbullying,0,0.5290237467018469
+562,"dulu astaga lutpi😩
+sekarang astaga lutpi😱",dulu astaga lutpi sekarang astaga lutpi,0,safe,non-cyberbullying,0,0.5290237467018469
+563,Zhuxin di pick baloy kata lim kocak,zhuxin pick baloy kata lim kocak,0,safe,non-cyberbullying,0,0.5290237467018469
+564,Fany cacat sosoan gembel,fany cacat sosoan gembel,4,moderate_toxic,cyberbullying,1,9.113636363636363
+565,"5 kata lucu 
+Toyy lebih jago daripada skylar😂😂😂",kata lucu toyy lebih jago skylar,0,safe,non-cyberbullying,0,0.5290237467018469
+566,Casternya berat sebelah jirr...,casternya berat belah jirr,0,safe,non-cyberbullying,0,0.5290237467018469
+567,"Udah lah, onic gak jago kata mid line yyq",lah onic jago kata mid line yyq,0,safe,non-cyberbullying,0,0.5290237467018469
+568,rrq -1 mage,rrq mage,0,safe,non-cyberbullying,0,0.5290237467018469
+569,di game 1 ini sumpah liat pharsa nya w sebagai public juga ngakak posisi apaan dah ini pro player masa gini 🗿😂,game sumpah liat pharsa w public ngakak posisi apa ini pro player masa gin,0,safe,non-cyberbullying,0,0.5290237467018469
+570,Karena skylar ke Onic ya udah gua dukung Onic,skylar onic sudah dukung onic,0,safe,non-cyberbullying,0,0.5290237467018469
+571,"Gua udah bilang ribuan x Toy ini mm ampas, liat aja positioningnya kocak",sudah bilang ribu x toy mm ampas liat positioningnya kocak,4,moderate_toxic,cyberbullying,1,9.113636363636363
+572,Onic vs partyan warkop 🗿🗿,onic vs partyan warkop,0,safe,non-cyberbullying,0,0.5290237467018469
+573,CASTER TOLONG NETRAL DONG .,caster netral dong,0,safe,non-cyberbullying,0,0.5290237467018469
+574,arlottnya jago,arlottnya jago,0,safe,non-cyberbullying,0,0.5290237467018469
+575,Cemilan onic😂,cemilan onic,0,safe,non-cyberbullying,0,0.5290237467018469
+576,Aga ngaakak liat item natan,aga ngaakak liat item natan,0,safe,non-cyberbullying,0,0.5290237467018469
+577,"""dominasi onic emang sangat total bgt"" 
+
+trs tiba² bahas ""satu satunya cara menang lawan zunesh"". eh kocak dah ni caster satu",dominasi onic memang sangat total banget terus tiba bahas satu satu cara memang lawan zunesh eh kocak ni caster satu,0,safe,non-cyberbullying,0,0.5290237467018469
+578,yang bisa ngalahin onic cuman evos,bisa ngalahin onic cuma evos,0,safe,non-cyberbullying,0,0.5290237467018469
+579,kok msh ada ya yg blg dyren lebih jago drpd lutpi 😂,kok msh ya blg dyren lebih jago drpd lutpi,0,safe,non-cyberbullying,0,0.5290237467018469
+580,itu Rinzz cuman bisa banyak gaya doang kah?😂😂,rinzz cuma banyak gaya orang,0,safe,non-cyberbullying,0,0.5290237467018469
+581,pasep mau di tutor parsah smaa midlane jago hhh,pasep mau tutor parsah smaa midlane jago hhh,0,safe,non-cyberbullying,0,0.5290237467018469
+582,raja lokal vs raja lokal sebenernya,raja lokal vs raja lokal sebenernya,0,safe,non-cyberbullying,0,0.5290237467018469
+583,W LUPTI 🥶,w lupti,0,safe,non-cyberbullying,0,0.5290237467018469
+584,Makan tuh skylar,tuh skylar,0,safe,non-cyberbullying,0,0.5290237467018469
+585,gelo arlot lutpi,gelo arlot lutpi,0,safe,non-cyberbullying,0,0.5290237467018469
+586,caster masih condong mulu dah,caster kasih condong mulu,0,safe,non-cyberbullying,0,0.5290237467018469
+587,untung  baxia kumar diban,untung baxia mar ban,0,safe,non-cyberbullying,0,0.5290237467018469
+588,Ini ni yg katanya Toy lebih jago dari Skylar yaa😂,ni kata toy lebih jago skylar,0,safe,non-cyberbullying,0,0.5290237467018469
+589,"Tim yg fansnya epic sampai honor karena lebih penting gimik dibanding skill = RRQ
+
+Tim yg fansnya Glory sampai Imortal karena lebih penting skill dibanding gimik = ONIC",tim fansnya epic honor lebih penting gimik banding skill rrq tim fansnya glory imortal lebih penting skill banding gimik onic,0,safe,non-cyberbullying,0,0.5290237467018469
+590,Itu ko nga di panggung mainnya,ko nga panggung main,0,safe,non-cyberbullying,0,0.5290237467018469
+591,Fanny indo cuma dongeng ya coach kezcute,fanny indo cuma dongeng coach kezcute,0,safe,non-cyberbullying,0,0.5290237467018469
+592,Kalau bisa serang aja di ige nya rinz biar tau dia,kalau serang di ige rinz biar tahu,0,safe,non-cyberbullying,0,0.5290237467018469
+593,Liat lah onic semakin keras dan tidak ada 1 tim yang  bisa menumbangkan onic,liat lah onic makin keras tidak tim bisa tumbang onic,0,safe,non-cyberbullying,0,0.5290237467018469
+594,udah beda jersi lek,beda jersi lek,0,safe,non-cyberbullying,0,0.5290237467018469
+595,"Semoga skylar cepet beradaptasi di onic, biar makin enak dan ngga terlalu beban",moga skylar cepet adaptasi onic biar makin enak ngga terlalu beban,0,safe,non-cyberbullying,0,0.5290237467018469
+596,ppq,ppq,0,safe,non-cyberbullying,0,0.5290237467018469
+597,dyren main sediri,dyren main diri,0,safe,non-cyberbullying,0,0.5290237467018469
+598,Orang2 tolol bisa2nya Sanz dibandingin ama rinzz ngakak,orang tolol bisa sanz dibandingin sama rinzz ngakak,4,moderate_toxic,cyberbullying,1,9.113636363636363
+599,😝😝😛🤘🤘,,0,safe,non-cyberbullying,0,0.5290237467018469
+600,LIM CASTER POKE,lim caster poke,3,moderate_toxic,non-cyberbullying,0,0.5290237467018469
+601,"“Bukan musuh yg jago, tapi kita yg terlalu tolol”😢",bukan musuh jago kita terlalu tolol,4,moderate_toxic,cyberbullying,1,9.113636363636363
+602,gelo lutpi arcelot,gelo lutpi arcelot,0,safe,non-cyberbullying,0,0.5290237467018469
+603,Pharsa pharsa poke bener mati dalem base😂😂,pharsa pharsa poke benar mati dalem base,8,severe_toxic,cyberbullying,1,9.113636363636363
+604,Fix Zunesh beban tim lol,fix zunesh beban tim lol,0,safe,non-cyberbullying,0,0.5290237467018469
+605,Diobok obok sama mas mantan wkwkwk,diobok goblok sama mas mantan wkwkwk,4,moderate_toxic,cyberbullying,1,9.113636363636363
+606,Ngeri lance Kairi😮😮,ngeri lance kairi,0,safe,non-cyberbullying,0,0.5290237467018469
+607,fani lawakk😂😂,fani lawakk,0,safe,non-cyberbullying,0,0.5290237467018469
+608,Lutfi+ arlot gk ngotak,lutfi arlot ngotak,0,safe,non-cyberbullying,0,0.5290237467018469
+609,Lutpi,lutpi,0,safe,non-cyberbullying,0,0.5290237467018469
+610,kalah bukan karena musuh nya jago😂,kalau bukan musuh jago,0,safe,non-cyberbullying,0,0.5290237467018469
+611,Gila sih Lutfi keren cuyy,gila sih lutfi keren cuyy,0,safe,non-cyberbullying,0,0.5290237467018469
+612,Lutpy,lutpy,0,safe,non-cyberbullying,0,0.5290237467018469
+613,"berhenti jdi kingdom , berenti nonton rrq",henti jadi kingdom renti nonton rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+614,9:19 Pharsa ngapain woy😂,pharsa ngapain woy,0,safe,non-cyberbullying,0,0.5290237467018469
+615,Lutpii gelo,lutpii gelo,0,safe,non-cyberbullying,0,0.5290237467018469
+616,Wkwkwk kingdom bermuka dua,wkwkwk kingdom muka,0,safe,non-cyberbullying,0,0.5290237467018469
+617,Akhirnya skylar vs toy,akhir skylar vs toy,0,safe,non-cyberbullying,0,0.5290237467018469
+618,"Disini 9:18 rins harusnya tau kalau ada Sanz yg dari mid karna kelihatan dari visionnya Idok klau sanz ke arah ambush bawah bukan ke idok. Tapi dia malah maju, untuk kehadiran kairi oke lah dia ngga espek tpi harusnya dia tau kalau ada sanz yg ke situ berarti ada backup utk lutpi 😂 gw bukan fans ppq cuman liat rins main bikin ketawa aja... Pantes di tiap week yg gendong si idok😂",sini rins harus tahu kalau sanz mid lihat dari visionnya idok kalau sanz arah ambush bawah bukan idok malah maju hadir kairi oke lah ngga espek harus dia tahu kalau sanz ke situ arti backup lutpi bukan fans ppq cuma liat rins main bikin ketawa pantes tiap week gendong si idok,0,safe,non-cyberbullying,0,0.5290237467018469
+619,pak ap pulangkan skylar kamiii,pak ap pulang skylar kamiii,0,safe,non-cyberbullying,0,0.5290237467018469
+620,lupy exp line terbaik mpl sejauh jni,lupy exp line baik mpl jauh jni,0,safe,non-cyberbullying,0,0.5290237467018469
+621,RRQ MAIN LUDO AJA GA COCOK MAIN ML WKWKW,rrq main ludo tidak cocok main ml wkwkw,0,safe,non-cyberbullying,0,0.5290237467018469
+622,Harusnya rrq exp nya minsi,harus rrq exp minsi,0,safe,non-cyberbullying,0,0.5290237467018469
+623,Lawannya adik adik,lawan adik adik,0,safe,non-cyberbullying,0,0.5290237467018469
+624,"Idok kok main tanknya kek ragu ragu bngt, kasian expnya yg udah open",idok kok main tank ragu ragu banget kasi expnya sudah open,0,safe,non-cyberbullying,0,0.5290237467018469
+625,"Raja dari segala raja , Ehh raja Habis jabatan",raja segala raja ehh raja habis jabat,0,safe,non-cyberbullying,0,0.5290237467018469
+626,ayam😂,ayam,0,safe,non-cyberbullying,0,0.5290237467018469
+627,Cuma tuturu yang bisa ngimbangi Skylar,cuma tuturu bisa ngimbangi skylar,0,safe,non-cyberbullying,0,0.5290237467018469
+628,Cukup nonton 1 game.. kalo yg menang ONIC ya jelas next game 2.0 wkwkw,cukup nonton game kalau memang onic jelas next game wkwkw,0,safe,non-cyberbullying,0,0.5290237467018469
+629,onic vs bocil2 rnked,onic vs bocil rnked,0,safe,non-cyberbullying,0,0.5290237467018469
+630,Penerus buts emang gak ada lawan🤫,terus buts memang ada lawan,0,safe,non-cyberbullying,0,0.5290237467018469
+631,Mana spicy boy mana miracle boy this is kiboy,mana spicy boy mana miracle boy this is kiboy,0,safe,non-cyberbullying,0,0.5290237467018469
+632,Kasih aja pialanya ke onic😂,kasih piala onic,0,safe,non-cyberbullying,0,0.5290237467018469
+633,Rinz si paling jago,rinz si paling jago,0,safe,non-cyberbullying,0,0.5290237467018469
+634,Derbi? Kocak ppq,derbi kocak ppq,0,safe,non-cyberbullying,0,0.5290237467018469
+635,Lupa diedit jir,lupa edit jir,0,safe,non-cyberbullying,0,0.5290237467018469
+636,rrq ngemainin jungle publik😂,rrq ngemainin jungle publik,0,safe,non-cyberbullying,0,0.5290237467018469
+637,"yaela casternya memihak banget. yg lgi unggul siapa, yg diomongin siapa wkwkwkk",yaela casternya pihak banget lagi unggul siapa diomongin siapa wkwkwkk,0,safe,non-cyberbullying,0,0.5290237467018469
+638,"Udah jangan main raja2an, org kalah terus main raja2an",jangan main raja orang kalau terus main raja,0,safe,non-cyberbullying,0,0.5290237467018469
+639,Gak guna sekali uranus sma grok knp dipake,guna sekali uranus sama grok knp dipake,0,safe,non-cyberbullying,0,0.5290237467018469
+640,Ini yg di tunggu²,yang tunggu,0,safe,non-cyberbullying,0,0.5290237467018469
+641,"Ketika mantan tulang punggung rrq membuktikan kualitasnya kepada tulang ayam rrq 😂😂 ..
+Recall² Ter gg dari sanz d dlm high ground rrq ❤❤",mantan tulang punggung rrq bukti kualitas tulang ayam rrq recall ter gg sanz d dlm high ground rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+642,Kok g main di stage kenapa ya?,kok g main stage ya,0,safe,non-cyberbullying,0,0.5290237467018469
+643,"Baru Naik mythic ,langsung nonton ini ,Senang rasanya😊😀💪",baru naik mythic langsung nonton senang rasa,0,safe,non-cyberbullying,0,0.5290237467018469
+644,Cukup tau skylark kece gitu gak heboh ke skylark miminnya,cukup tahu skylark kece gitu heboh skylark miminnya,0,safe,non-cyberbullying,0,0.5290237467018469
+645,9:20 POSISI APAANTUH EL F UPSSSS,posisi apaantuh el f upssss,0,safe,non-cyberbullying,0,0.5290237467018469
+646,casternya terlalu condong ke rrq,casternya terlalu condong rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+647,hahahaha ppq ppq,hahahaha ppq ppq,0,safe,non-cyberbullying,0,0.5290237467018469
+648,Mampus ppq dongo gedein bacot doang,mampus ppq dongo gedein bacot orang,7,severe_toxic,cyberbullying,1,9.113636363636363
+649,siapakah tulang punggung rrq sekarang ? wkwkw,siapa tulang punggung rrq sekarang wkwkw,0,safe,non-cyberbullying,0,0.5290237467018469
+650,Lutpi sama idok fliker tembok,lutpi sama idok fliker tembok,0,safe,non-cyberbullying,0,0.5290237467018469
+651,Raja badut vs raja sungguhan 😂😂,raja badut vs raja sungguh,0,safe,non-cyberbullying,0,0.5290237467018469
+652,"Bola ada CR7
+MPL ada SKYLAR 
+Dulu dukung RRQ sekarang dukung ONIC",bola cr mpl skylar dulu dukung rrq sekarang dukung onic,0,safe,non-cyberbullying,0,0.5290237467018469
+653,"Luthpi tidak terlalu banyak bacot.
+
+Tapi skill di atas semua exp indo.",luthpi terlalu banyak bacot skill atas semua exp indo,2,minor_negative,non-cyberbullying,0,0.5290237467018469
+654,Membuang emas demi besi 😂😂😂😂😂 RRQ menangiss,memang emas besi rrq menangiss,0,safe,non-cyberbullying,0,0.5290237467018469
+655,Gg,gg,0,safe,non-cyberbullying,0,0.5290237467018469
+656,Main fanny gitu doang mah temen gue juga bisa,main fanny gitu orang mah temen juga,0,safe,non-cyberbullying,0,0.5290237467018469
+657,Kenapa ga main di stage?,tidak main stage,0,safe,non-cyberbullying,0,0.5290237467018469
+658,"Kalian nyadar gak sih? Itu draft nya onic sama kaya draftnya RRQ pas Waktu RRQ
+ VS TLID S14 Di Game 1",kalian nyadar sih draft onic sama kaya draftnya rrq pas waktu rrq vs tlid s game,0,safe,non-cyberbullying,0,0.5290237467018469
+659,BEDA KELAS BUNG.,beda kelas bung,0,safe,non-cyberbullying,0,0.5290237467018469
+660,Ganti mid anjirr sumpah RRQ😂,mid anjirr sumpah rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+661,ga nyangka lutpi bisa sejago ini skarang 🫡🫡,nyangka lutpi jago sekarang,0,safe,non-cyberbullying,0,0.5290237467018469
+662,🫰🫰,,0,safe,non-cyberbullying,0,0.5290237467018469
+663,Ngapain mainin zunes,ngapain mainin zunes,0,safe,non-cyberbullying,0,0.5290237467018469
+664,pliss idok suruh maen titit aj kalo maen roam msh ragu wkw,pliss idok suruh maen titit kalau maen roam msh ragu wkw,0,safe,non-cyberbullying,0,0.5290237467018469
+665,Kasih piala nya ke ONIC Sekarang juga!!! Mpl indo terlalu mudah bagi onic,kasih piala ke onic sekarang mpl indo terlalu bagi onic,0,safe,non-cyberbullying,0,0.5290237467018469
+666,Sok Fany zunesh,sok fany zunesh,0,safe,non-cyberbullying,0,0.5290237467018469
+667,Klaz skylar,klaz skylar,0,safe,non-cyberbullying,0,0.5290237467018469
+668,"GUA KASIH TAU BUAT KALIAN KINGDOM
+CEO KALIAN PAK AP ITU UDAH GAK FOKUS MEMBANGUN RRQ JADI TIM ESPORT BERPRESTASI LAGI
+BELIAU HANYA FOKUS MARKETING DOANG SEKARANG SAMA TUH TIM",kasih tahu buat kalian kingdom ceo kalian pak ap sudah fokus bangun rrq jadi tim esport prestasi beliau fokus marketing orang sekarang sama tuh tim,0,safe,non-cyberbullying,0,0.5290237467018469
+669,Bang leerr,bang leerr,0,safe,non-cyberbullying,0,0.5290237467018469
+670,"toy cb bsa granger bjir, jangan d ksi hero lain",toy cb granger bjir jangan d ksi hero,0,safe,non-cyberbullying,0,0.5290237467018469
+671,Bang lerrrr,bang lerrrr,0,safe,non-cyberbullying,0,0.5290237467018469
+672,di game ini fannynya zunesh ngeri bgt brok🔥🔥,game fannynya zunesh ngeri banget brok,0,safe,non-cyberbullying,0,0.5290237467018469
+673,kingdom amaan?,kingdom ama,0,safe,non-cyberbullying,0,0.5290237467018469
+674,Mantap lutpi😅,mantap lutpi,0,safe,non-cyberbullying,0,0.5290237467018469
+675,Kenapa ujin gak di mainin ya,ujin di mainin,0,safe,non-cyberbullying,0,0.5290237467018469
+676,Rrq udah makin keliatan jadi badut nya haha (ketawa ngakak),rrq makin liat jadi badut haha ketawa ngakak,0,safe,non-cyberbullying,0,0.5290237467018469
+677,Rinz bacot doang hahaha😂,rinz bacot orang hahaha,2,minor_negative,non-cyberbullying,0,0.5290237467018469
+678,"""mereka ga jago, tapi kita dibantai 2-0""🗿",tidak jago kita bantai,0,safe,non-cyberbullying,0,0.5290237467018469
+679,Kok mainnya ga di stage?,kok main di stage,0,safe,non-cyberbullying,0,0.5290237467018469
+680,"Asli liat match ini RRQ bot kli, jangan di bandingin ga bs di bandingin",asli liat match rrq bot kli jangan bandingin bisa bandingin,3,moderate_toxic,non-cyberbullying,0,0.5290237467018469
+681,Blm sebanding buat rrq kalo lawam onic,banding buat rrq kalau lawam onic,0,safe,non-cyberbullying,0,0.5290237467018469
+682,Yang di salahin DYREN ini 😂,di salahin dyren,0,safe,non-cyberbullying,0,0.5290237467018469
+683,Jangan remehkan king lutfi,jangan remeh king lutfi,0,safe,non-cyberbullying,0,0.5290237467018469
+684,"Mati di base spawn,mm brawl,fanny inspire😂",mati base spawnmm brawlfanny inspire,5,moderate_toxic,cyberbullying,1,9.113636363636363
+685,Kaya gitu disebut raja?😂😂😂,kaya gitu sebut raja,0,safe,non-cyberbullying,0,0.5290237467018469
+686,Mana sutsujin Mlah zunesh,mana sutsujin mlah zunesh,0,safe,non-cyberbullying,0,0.5290237467018469
+687,Gg lutpi,gg lutpi,0,safe,non-cyberbullying,0,0.5290237467018469
+688,Lah bukannya rrq gak di bolehin makai recal yg ono yak😅😅,lah bukan rrq di bolehin pakai recal ono,0,safe,non-cyberbullying,0,0.5290237467018469
+689,17:17 dikira masuk rumput rinz padahal keliatan wkwk untung GK mati konyol auto dihujat 🤣,kira masuk rumput rinz padahal liat wkwk untung mati kontol auto hujat,10,extreme_cyberbullying,cyberbullying,1,9.113636363636363
+690,"Setiap season pasti ganti roster 
+Kapan rrq juara 
+Apa cuman bahan lelucon di sosmed",season nanti roster kapan rrq juara apa cuma bahan lelucon sosmed,0,safe,non-cyberbullying,0,0.5290237467018469
+691,7:46 ngeri lutpi,ngeri lutpi,0,safe,non-cyberbullying,0,0.5290237467018469
+692,Mantap bang lerrr 😂🎉,mantap bang lerrr,0,safe,non-cyberbullying,0,0.5290237467018469
+693,😜👆😜👆😜👆😜👆,,0,safe,non-cyberbullying,0,0.5290237467018469
+694,"Bng ler d samain sama adek²(toy)bedalah antara langit dan tanah kocak²
+Buat bng ler🔥",bng ler d sama adektoybedalah langit tanah kocak buat bng ler,0,safe,non-cyberbullying,0,0.5290237467018469
+695,Bener pake rezz,benar pakai rezz,0,safe,non-cyberbullying,0,0.5290237467018469
+696,"thanks buat kreatif MPL udah turutin komen gua tntg ubah tampilan room nya, gak merah putih terus. jadi beda dgn season² sebelumnya.",thanks buat kreatif mpl turutin komen tntg ubah tampil room tidak merah putih terus jadi beda season belum,0,safe,non-cyberbullying,0,0.5290237467018469
+697,"Yg penting cuan kata AP CEO , mang peduli piala, jadiin pemain mdl terus jadi mpl, terus jual,",penting cuan kata ap ceo mang peduli piala jadi main mdl terus jadi mpl terus jual,0,safe,non-cyberbullying,0,0.5290237467018469
+698,Calon Juara Dunia,calon juara dunia,0,safe,non-cyberbullying,0,0.5290237467018469
+699,Zunesh retry indomaret,zunesh retry indomaret,0,safe,non-cyberbullying,0,0.5290237467018469
+700,"Ini yg namanya game seru bukan hyper tank mulu! 
+Udah hyper tank objektif tartel retri alfamart lagi wkwkwk",yang nama game seru bukan hyper tank mulu hyper tank objektif tartel retri alfamart wkwkwk,0,safe,non-cyberbullying,0,0.5290237467018469
+701,😂 tutor 2 match 2 kali rinz di bunuh dalam base,tutor match kali rinz bunuh base,5,moderate_toxic,cyberbullying,1,9.113636363636363
+702,RRQ mkin hari mkin tolol....mata duitan...,rrq mkin hari mkin tololmata duit,0,safe,non-cyberbullying,0,0.5290237467018469
+703,Jual RINZ beli ABOY,jual rinz beli aboy,0,safe,non-cyberbullying,0,0.5290237467018469
+704,😆👆,,0,safe,non-cyberbullying,0,0.5290237467018469
+705,Lutpi momentumnya ngeriiii,lutpi momentum ngeriiii,0,safe,non-cyberbullying,0,0.5290237467018469
+706,onic awakk🎉,onic awakk,0,safe,non-cyberbullying,0,0.5290237467018469
+707,Yang menang onic yang di bahas selalu rrq kocak,memang onic di bahas selalu rrq kocak,0,safe,non-cyberbullying,0,0.5290237467018469
+708,Liat rinz 😅😅😅😅 mainya buang buang ulti sama posisi nya ngawur mulu  duta BLUNDER KAH,liat rinz mai buang buang ulti sama posisi ngawur mulu duta blunder,0,safe,non-cyberbullying,0,0.5290237467018469
+709,hyper RRQ yg skrng hyper indomart,hyper rrq skrng hyper indomart,0,safe,non-cyberbullying,0,0.5290237467018469
+710,RRQ KALAH aduhhh aduhh 😢,rrq kalau aduhhh aduhh,0,safe,non-cyberbullying,0,0.5290237467018469
+711,sumpah hyper RRQ jauh lebih bagus sutsujin dari pada yg sekrng mah,sumpah hyper rrq jauh lebih bagus sutsujin pada sekarang mah,0,safe,non-cyberbullying,0,0.5290237467018469
+712,Anjay badut MpL,anjay badut mpl,1,minor_negative,non-cyberbullying,0,0.5290237467018469
+713,lutpi🤩🤩🤩,lutpi,0,safe,non-cyberbullying,0,0.5290237467018469
+714,nice,nice,0,safe,non-cyberbullying,0,0.5290237467018469
+715,pharsa mati di base pasti bakalan fyp 1 bulan😂😂😂😂,pharsa mati base bakal fyp bukan,5,moderate_toxic,cyberbullying,1,9.113636363636363
+716,Wkwkwkwkw mid jago mati di base,wkwkwkwkw mid jago mati base,5,moderate_toxic,cyberbullying,1,9.113636363636363
+717,"Terimakasih RINZ sudah ""menunjukan"" kalo Onic Id itu ""Gak jago"",  dan Terimakasig juga untuk RINZ sudah mau di Gayang di dalam Base RRQ. 
+Akhir nya tetap tidur dengan Nyenyak,  soal nya kaum Hama ngeringkuk di dalam GOA!!  😂",terima kasih rinz tunjuk kalau onic id tidak jago terima kasih untuk rinz mau yang dalam base rrq akhir tetap tidur nyenyak soal kaum hama ngeringkuk dalam goa,0,safe,non-cyberbullying,0,0.5290237467018469
+718,Wkwkwkwkw Rinz Mana Suara Sombongnya ? Dan Rasain Tuh Milih Toy Yang Ada Memalukan Wkwkwk,wkwkwkwkw rinz mana suara sombong rasain tuh milih toy ada malu wkwkwk,0,safe,non-cyberbullying,0,0.5290237467018469
+719,"onic it udah terbiasa lawan tim2 kuat ph, udah g level ama tim indo",onic it biasa lawan tim kuat ph g level sama tim indo,0,safe,non-cyberbullying,0,0.5290237467018469
+720,"onic it udah terbiasa lawan tim2 kuat ph, udah g level ama tim indo",onic it biasa lawan tim kuat ph g level sama tim indo,0,safe,non-cyberbullying,0,0.5290237467018469
+721,dah gua bilang player sekosisten gini dicamatin 😂 Seneng banget gua kalau rrq kalaj,bilang player sekosisten gin dicamatin neng banget saya kalau rrq kalau,0,safe,non-cyberbullying,0,0.5290237467018469
+722,Ini kenapa ga offline di venue guys mainya?,kenapa offline venue guys mai,0,safe,non-cyberbullying,0,0.5290237467018469
+723,"Lebih salut ama lutpi yg dulu masih terbayang2 ama buts awal debut nya, yg sekarang improve nya gila sih salut buat lutpi 🔥🔥",lebih salut sama lutpi dulu kasih bayang sama buts awal debut yang sekarang improve gila sih salut buat lutpi,0,safe,non-cyberbullying,0,0.5290237467018469
+724,"RRQ kebanyakan Gonta ganti player ngak mau berproses setiap kalah ganti terus gmn mau menang, pusing liat RRQ ganti player tetap aja hasilnya minus.",rrq banyak gonta player ngak mau proses kalau terus bagaimana mau memang pusing liat rrq player tetap hasil minus,0,safe,non-cyberbullying,0,0.5290237467018469
+725,"Midlinernya suruh byk belajar lg, belajar sm lutpi noh. Cepet improve. Season ini hijume sm cyrus yg bs imbangin sanz",midlinernya suruh byk ajar ajar sm lutpi noh cepet improve season hijume sm cyrus bisa imbangin sanz,0,safe,non-cyberbullying,0,0.5290237467018469
+726,"Gak sabar share ke temen soal ❤𝐌𝐎𝐍𝐀 𝟒𝐃🔴! Ceritanya bikin penasaran, kemenangannya bikin happy! ❤️",sabar share temen soal cerita bikin penasaran menang bikin happy,0,safe,non-cyberbullying,0,0.5290237467018469
+727,"Tolong ye untuk para caster lebih netral  dalam ngecast game jangan terlalu berat ke rrq terutama ranger emas lim komcul, untuk kb netral.. gua perhatiin baik² match ini lbh banyak ngomongin rrq nya drpd onicnya",ye para caster lebih netral ngecast game jangan terlalu berat rrq utama ranger emas lim komcul kb netral perhatiin baik match lbh banyak ngomongin rrq drpd onicnya,0,safe,non-cyberbullying,0,0.5290237467018469
+728,Rinz ngapain sih?,rinz ngapain sih,0,safe,non-cyberbullying,0,0.5290237467018469
+729,Rinz mati di base tuh? Wkwkwkwkwkwk,rinz mati base tuh wkwkwkwkwkwk,5,moderate_toxic,cyberbullying,1,9.113636363636363
+730,Rinz BOTT,rinz bott,0,safe,non-cyberbullying,0,0.5290237467018469
+731,maen gold gapernah rotasi si toyy kek maen brawl tapi di agungkan bgt sama kingdom wkwkwkwk,maen gold gapernah rotasi si toyy maen brawl di agung banget sama kingdom wkwkwkwk,0,safe,non-cyberbullying,0,0.5290237467018469
+732,Bang Ler ❤,bang ler,0,safe,non-cyberbullying,0,0.5290237467018469
+733,Geloo lutpeeee 💯💯💯,geloo lutpeeee,0,safe,non-cyberbullying,0,0.5290237467018469
+734,ngapain si rrq😂😂,ngapain si rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+735,Gok gok gok😂,gok gok gok,0,safe,non-cyberbullying,0,0.5290237467018469
+736,"RRQ SAHRONI, 
+RRQ EKO
+RRQ KUYA
+Kenapa gak di mainin",rrq sahroni rrq eko rrq kuya tidak mainin,0,safe,non-cyberbullying,0,0.5290237467018469
+737,apaansi fani maennya kabur 😂😂,apaansi fani maennya kabur,0,safe,non-cyberbullying,0,0.5290237467018469
+738,Rrq mulu yg di sanjung dih casterr,rrq mulu di sanjung dih casterr,0,safe,non-cyberbullying,0,0.5290237467018469
+739,Mulai sisen ini gw pens onic,mulai sisen saya pens onic,0,safe,non-cyberbullying,0,0.5290237467018469
+740,lutpi gg,lutpi gg,0,safe,non-cyberbullying,0,0.5290237467018469
+741,7:03 ngapain siduren ini,ngapain siduren,0,safe,non-cyberbullying,0,0.5290237467018469
+742,maen ko ngepush rrq b o t 😂😂,maen ko ngepush rrq b o t,0,safe,non-cyberbullying,0,0.5290237467018469
+743,Dulu kingdom bilang toyy lebih jago dari Skylar tapi buktinya🗿,dulu kingdom bilang toyy lebih jago skylar bukti,0,safe,non-cyberbullying,0,0.5290237467018469
+744,Toy epik liat cara mainnya,toy epik liat cara main,0,safe,non-cyberbullying,0,0.5290237467018469
+745,"Dah tau Fanny indo hanyalah dongeng, eh malah pick Fanny 😂😂😂",tahu fanny indo hanya dongeng eh malah pick fanny,0,safe,non-cyberbullying,0,0.5290237467018469
+746,Gampang gini,gampang gin,0,safe,non-cyberbullying,0,0.5290237467018469
+747,Tu sutzujin kaga dimainin,tu sutzujin kaga dimainin,0,safe,non-cyberbullying,0,0.5290237467018469
+748,Fanny Farming Minions. 🗿,fanny farming minions,0,safe,non-cyberbullying,0,0.5290237467018469
+749,Ketemu mantan nih wkwk,ketemu mantan nih wkwk,0,safe,non-cyberbullying,0,0.5290237467018469
+750,"Lutpii udah layak di adu di panggung intern, ngeri",lutpii layak adu panggung intern ngeri,0,safe,non-cyberbullying,0,0.5290237467018469
+751,Raja jadi²an ingin lawan raja sesungguhnya = DIJADIKAN TAMAN BERMAIN SAMA ONIC... RINZ KOCAK 😂,raja jadi lawan raja sungguh jadi taman main sama onic rinz kocak,0,safe,non-cyberbullying,0,0.5290237467018469
+752,Enak ga dikasih paham 😜👆😜👆😜👆,enak kasih paham,0,safe,non-cyberbullying,0,0.5290237467018469
+753,Kocak rrq,kocak rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+754,sekarang konsepnya kayak nongkrong di cafe gitu ya,sekarang konsep nongkrong cafe gitu,0,safe,non-cyberbullying,0,0.5290237467018469
+755,"Kok saya lihat RRQ sekarang agak aneh, engga sekompak dulu",kok lihat rrq sekarang aneh engga kompak dulu,0,safe,non-cyberbullying,0,0.5290237467018469
+756,Ngan hayoh weh “Terbuang dalam waktu” ALAY,hayoh weh buang waktu alay,0,safe,non-cyberbullying,0,0.5290237467018469
+757,Malu gk ppq,malu ppq,0,safe,non-cyberbullying,0,0.5290237467018469
+758,Haduh RRQ 😂😂😂😂,haduh rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+759,gue gak mau ngata²in rrq tapi sangat disayangkan skaylar dilepas  keep strong aja buat rrq,tidak mau ngatain rrq sangat sayang skaylar lepas keep strong buat rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+760,gue gak mau ngata²in rrq tapi sangat disayangkan skaylar dilepas  keep strong aja buat rrq,tidak mau ngatain rrq sangat sayang skaylar lepas keep strong buat rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+761,"Ga dkung rrq sejak ada rinz , ... Kbnyakan omong jir , isinya gkada",dkung rrq sejak rinz kbnyakan omong jir isi gkada,0,safe,non-cyberbullying,0,0.5290237467018469
+762,mana yang kemaren² ngebanding bandingin Skylar sama toy kok ga ada apa²nya di hadapan Skylar 😂,mana kemaren ngebanding bandingin skylar sama toy kok ada apa hadap skylar,0,safe,non-cyberbullying,0,0.5290237467018469
+763,Geloookkk onick cvk,geloookkk onick cvk,0,safe,non-cyberbullying,0,0.5290237467018469
+764,Rinz mati di base 😂,rinz mati base,5,moderate_toxic,cyberbullying,1,9.113636363636363
+765,Gw paham kenapa Skylar lebih milih ke onic drpd rrq 😂 roster rrq EMG ga jelas 😂,paham skylar lebih milih onic drpd rrq roster rrq memang jelas,0,safe,non-cyberbullying,0,0.5290237467018469
+766,Counter onic turunin rezz🤣,counter onic turunin rezz,0,safe,non-cyberbullying,0,0.5290237467018469
+767,Gelo lutfi,gelo lutfi,0,safe,non-cyberbullying,0,0.5290237467018469
+768,"Mana yang bilang tembak tembang Toyy Toyy
+King skylar nihh",mana bilang tembak tembang toyy toyy king skylar nihh,0,safe,non-cyberbullying,0,0.5290237467018469
+769,Sudah lah jgn main raja rajaan lagii 😂😂😂,lah jangan main raja raja,0,safe,non-cyberbullying,0,0.5290237467018469
+770,lutpi gila sih gameplaynya... GG piii,lutpi gila sih gameplaynya gg piii,0,safe,non-cyberbullying,0,0.5290237467018469
+771,Kedua nya tim favorit gua keren onic best RRQ,dua tim favorit keren onic best rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+772,Kasian rinz di ayam ayamin sanz,kasi rinz ayam ayamin sanz,0,safe,non-cyberbullying,0,0.5290237467018469
+773,FIXX INI MAH ONIC LAGI ONIC LAGI YANG JUARA. TUTUP AJA MPL. GMNA MAU KE KANCAH NASIONAL JUARANYA JUGA ITU ITU AJA,fixx mah onic onic yang juara tutup mpl gmna mau kancah nasional juara itu saja,0,safe,non-cyberbullying,0,0.5290237467018469
+774,STRESS LUTPII,stress lutpii,0,safe,non-cyberbullying,0,0.5290237467018469
+775,push mmr pharsa,push mmr pharsa,0,safe,non-cyberbullying,0,0.5290237467018469
+776,Lokal...!!,lokal,0,safe,non-cyberbullying,0,0.5290237467018469
+777,Lutpi improve bget sih❤,lutpi improve banget sih,0,safe,non-cyberbullying,0,0.5290237467018469
+778,loh mana kok gak ada fans ppq yg komen wkwkw,loh mana kok ada fans ppq komen wkwkw,0,safe,non-cyberbullying,0,0.5290237467018469
+779,Zunesh di ospek kairi hahhaa 😂,zunesh ospek kairi hahhaa,0,safe,non-cyberbullying,0,0.5290237467018469
+780,KASIAN KALAH RRQ🤡,kasi kalau rrq,0,safe,non-cyberbullying,0,0.5290237467018469
+781,3 kata lucu : toyy diatas skylar,kata lucu toyy atas skylar,0,safe,non-cyberbullying,0,0.5290237467018469
+782,2 tim makanan srg 😂,tim makan srg,0,safe,non-cyberbullying,0,0.5290237467018469
+783,Ternyata bener fanny di indonesia cuma dongeng,nyata benar fanny indonesia cuma dongeng,0,safe,non-cyberbullying,0,0.5290237467018469
+784,Mvp lutpi,mvp lutpi,0,safe,non-cyberbullying,0,0.5290237467018469
+785,ga berasa royal derby nya😂,asa royal derby,0,safe,non-cyberbullying,0,0.5290237467018469
+786,rinz mau di tutorin potitioning pharsa kah? 😂,rinz mau tutorin potitioning pharsa,0,safe,non-cyberbullying,0,0.5290237467018469
+787,Kami kingdom pamit😊😊,kingdom pamit,0,safe,non-cyberbullying,0,0.5290237467018469
+788,gokil lutpi,gokil lutpi,0,safe,non-cyberbullying,0,0.5290237467018469
+789,Alhamdulillah sang raja langit onic 🇮🇩🔥menang skor 2.0 pempek jdi badut Konoha 🤡 goonic 🇮🇩,alhamdulillah sang raja langit onic memang skor pempek jadi badut konoha goonic,0,safe,non-cyberbullying,0,0.5290237467018469
+790,"RINZ MIDLANER PALING JAGO, CATAT.",rinz midlaner paling jago catat,0,safe,non-cyberbullying,0,0.5290237467018469
+791,Wkwkw zunesh kocakk,wkwkw zunesh kocakk,0,safe,non-cyberbullying,0,0.5290237467018469
+792,Si rinz ini oon bngt aj9 gk bisa posisi,si rinz oon banget tidak posisi,0,safe,non-cyberbullying,0,0.5290237467018469
+793,Rraqontol out rinz,rraqontol out rinz,0,safe,non-cyberbullying,0,0.5290237467018469
+794,Skylar memang gak diragukan udh masak pengalaman👍,skylar memang ragu masak alam,0,safe,non-cyberbullying,0,0.5290237467018469
+795,Lutpi jago bangett woii wkwkw,lutpi jago banget woii wkwkw,0,safe,non-cyberbullying,0,0.5290237467018469
+796,Kalo gua jadi rinz malu sih dibunuh dalam base wkwkwkk efek kiboyy,kalau jadi rinz malu sih bunuh base wkwkwkk efek kiboyy,5,moderate_toxic,cyberbullying,1,9.113636363636363
+797,MAMPOS KAU PPQ,mampos kamu ppq,0,safe,non-cyberbullying,0,0.5290237467018469
+798,"Hyper apaan ini buset,kaya bocah epic main nya,coach rrq gajelas sumpah,padahal roster kmrn ngga jelek jelek bngt malah diganti roster nya idiot",hyper apa busetkaya bocah epic main nyacoach rrq gajelas sumpahpadahal roster kmrn ngga jelek jelek banget malah ganti roster idiot,8,severe_toxic,cyberbullying,1,9.113636363636363
+799,19:02 ahh lutpi moment🎉🎉🎉,ahh lutpi moment,0,safe,non-cyberbullying,0,0.5290237467018469
+800,Makan lah itu jual skylar,lah jual skylar,0,safe,non-cyberbullying,0,0.5290237467018469
+801,Sutsujin mna bg,sutsujin mna bg,0,safe,non-cyberbullying,0,0.5290237467018469
+802,Gelooo skylarr improve bgt + tanpa death,gelooo skylarr improve banget death,0,safe,non-cyberbullying,0,0.5290237467018469
